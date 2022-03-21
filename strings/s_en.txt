@@ -1,0 +1,580 @@
+"app_name" = "Golf Genius";
+"timeout_title" = "Network Error";
+"timeout_message" = "Unable to connect to Golf Genius";
+"retry" = "Retry";
+"quit" = "Quit";
+"update_title" = "New Version Available!";
+"update_message_android" = "A new version of the Golf Genius app is available on Google Play. Would you like to download it right now? The version now on your phone works, so you can upgrade now or at a later time.";
+"update_message_ios" = "A new version of the app is available in the App Store. Would you like to download it right now? The version now on your phone works, so you can upgrade now or at a later time.";
+"update" = "Update";
+"later" = "Later";
+"login_error_title" = "Unable to sign in";
+"ok" = "Ok";
+"login_no_user" = "No user record found for this email. Please register on our website or request a GGID from your manager.";
+"error_has_occurred" = "An error has occurred. Please try again.";
+"invalid_ggid" = "Invalid GGID";
+"digital_scorecards_not enabled_message" = "Digital Scorecards not enabled for this round";
+"yes" = "Yes";
+"no" = "No";
+"and" = "And";
+"view" = "View";
+"success" = "Success";
+"dismiss" = "Dismiss";
+"select_photo_source" = "Select Photo Source";
+"take_photo" = "Take Photo";
+"from_gallery" = "From Gallery";
+"tap_to_select_photo" = "Tap to select a photo to upload";
+"change_your_photo" = "Tap to change your photo";
+"score_greater_than_eleven_alert" = "Score is greater than 11. Is this what you intended?";
+"scores_sent_confirmation" = "Scores sent to server. You can continue making changes while scores are being transmitted.";
+
+"sign_in_using" = "SIGN IN USING";
+"ggid" = "GGID";
+"or" = "or";
+"email_and_password" = "Email & Password";
+"email_address" = "Email address";
+"password" = "Password";
+"forgot_password" = "Forgot your password?";
+"sign_in" = "Sign In";
+"login_empty_all" = "You must fill in either your Golf Genius account or your GGID";
+"login_empty_password_ggid" = "You must fill in the password of your Golf Genius account";
+"login_empty_email_ggid" = "You must fill in the email address of your Golf Genius Account";
+"login_empty_ggid" = "You must fill in your GGID";
+"login_empty_email_and_password" = "You must fill in your Golf Genius account";
+"sign_in_loading" = "Signing in. Please wait…";
+"forgot_password_empty_email" = "Please enter your email address in the email address field";
+"hint_initials" = "Enter Your Initials, e.g., MZ";
+"continue_text" = "Continue";
+"ggid_empty" = "Please enter your initials";
+"click_your_name" = "Click your name";
+"leagues_title" = "Your Events";
+"no_leagues" = "No events found!";
+"search" = "Search";
+"search_league_hint" = "Enter event name";
+"click_your_name_to_start" = "You must click on your name to get started";
+
+"loading" = "Loading…";
+"dashboard_title" = "Dashboard";
+"section_on_the_course" = "On the Course";
+"dashboard_enter_scores_title" = "Enter Scores";
+"dashboard_enter_scores_subtitle" = "Enter scores for your group";
+"dashboard_digital_scorecards_title" = "Digital Scorecards";
+"dashboard_digital_scorecards_subtitle" = "Review your scores and notes";
+"dashboard_marker_options_title" = "Marker Options";
+"dashboard_marker_options_subtitle" = "Change who you mark";
+"dashboard_leaderboard_title" = "Leaderboard";
+"dashboard_leaderboard_subtitle" = "View in progress tournaments";
+"dashboard_upload_photo_title" = "Upload Photo";
+"dashboard_upload_photo_subtitle" = "From gallery or take photo";
+
+"you_are_the_marker_for" = "You are the marker for";
+"your_marker_is" = "Your marker is";
+"your_markers_are" = "Your markers are";
+"hi" = "Hi,";
+"welcome_to" = "Welcome to";
+"date" = "Date";
+"course_handicap" = "Course Handicap";
+"playing_handicap" = "Playing Handicap";
+"confirm_and_continue" = "Confirm and Continue";
+
+"choose_the_players_you_want_to_mark" = "Choose the player(s) you want to mark";
+"round_date" = "Round Date";
+"maximum_markers" = "You have reached the maximum number of markers";
+"maximum_players" = "You have reached the maximum number of players";
+"want_to_mark" = "You want to mark";
+"player_already_selected" = "This player was already selected by someone else.\nPull down to refresh!";
+"choose_player" = "Choose the player";
+
+"players" = "Players";
+"markers_notes" = "Marker's Notes";
+
+"please_verify_the_scores" = "Please verify the scores.";
+"once_saved" = "Once the scores are saved, you will be transitioned to the next player.";
+"once_saved_no_changes" = "Once the scores are saved, you will be transitioned to the next player and you will no longer be able to make changes.";
+"scores_correct_tap_on" = "If the scores are correct, tap on";
+"scores_incorrect_tap_on" = "If the scores are incorrect, tap on";
+"cancel" = "Cancel";
+"to_adjust" = "to adjust.";
+"enter_foursome_number_or_last_name" = "Enter foursome number or last name";
+
+"holes" = "Holes";
+
+"add_extra_hole" = "+ Add\nExtra Hole";
+"as" = "AS";
+"won_by_default" = "Won by Default";
+"won" = "WON";
+"match_play_once_the_scores_are_saved" = "Once the scores are saved, you will be transitioned to the next hole.\nIf the scores are correct, tap on";
+"match_play_once_the_scores_are_saved_no_more_changes" = "Once the scores are saved, you will be transitioned to the next hole and you will no longer be able to make changes.\nIf the scores are correct, tap on";
+
+"scorecards_incomplete_message" = "Scorecards are currently incomplete, but you can review marker and player scores. Once scores are reviewed, tap on “certify” to sign the scorecard.";
+"all_scores_are_entered" = "All scores are entered. Review marker and player scores and click on score to change. Tap on “certify” to sign the scorecard.";
+"review_your_scores" = "Review your scores. Compare against your marker's notes and certify. If you notice any discrepancies, alert your marker.";
+"stroke_index" = "Stroke Index";
+"markers" = "Markers";
+"player_cannot_certify" = "Player cannot certify?";
+"click_here" = "Click Here";
+"use_this_tool_to_cerfity" = "Use this tool to certify the scores on behalf of";
+"certify_tip" = ". Make sure the player can see the scores he is about to certify. Once the player viewed the scores, he can provide you with his player GGID. Enter this GGID here and tap “Certify”.";
+"scores_saved" = "Scores saved";
+"waiting_for_marker" = "Waiting for marker…";
+"swipe_left_to_certify" = "To Certify Your Scores, Swipe Left";
+"certify_another_player" = "Need to certify another player's scores? Click here";
+"stableford_points" = "Stableford Points";
+"my_notes" = "My Notes";
+"confirm_and_complete" = "Confirm and complete";
+"refresh_confirmation_alert" = "You have unsaved changes. Are you sure you want to refresh?";
+"confirmation" = "Confirmation";
+
+"player_not_available_anymore" = "Sorry, this player is not available anymore.";
+"legend" = "Legend";
+"last_refresh" = "Last refresh at";
+"last_refreshed" = "Last Refreshed";
+"eagle_or_better" = "Eagle or better";
+"birdie" = "Birdie";
+"bogey" = "Bogey";
+"double_bogey_or_worse" = "Double bogey or worse";
+"conflict" = "Conflict";
+"cannot_add_scores" = "Cannot add scores";
+"certify" = "Certify";
+"player_ggid" = "Player GGID";
+
+"loading_leaderboard" = "Loading leaderboard…";
+"file_chooser" = "File Chooser";
+"file_browser" = "File Browser";
+"flip_your_device" = "Flip your device sideways to have a better view";
+
+"loading_scorecard" = "Loading scorecard…";
+"loaded" = "“Loaded”";
+"score_saved" = "Score saved!";
+"loading_scorecards" = "Loading Scorecards";
+"invalid_round" = "Invalid Round";
+"loading_enter_scores" = "Loading Enter Scores";
+"loading_albums" = "Loading Albums";
+
+"edit_registration" = "Edit Registration";
+"add_to_waitlist" = "Add To Waitlist";
+"register_now" = "Register Now";
+"get_menu_sections" = "Get Menu Sections";
+"tee_sheet" = "Tee Sheet";
+"image_chooser" = "Image Chooser";
+"other" = "Other";
+"dashboard_scorecards_title" = "Scorecards";
+"dashboard_scorecards_subtitle" = "View scorecards";
+"dashboard_tee_sheets_title" = "Tee Sheets";
+"dashboard_tee_sheets_subtitle" = "View pairings for your rounds";
+"dashboard_member_portal_title" = "Member Portal";
+"dashboard_member_portal_subtitle" = "View the member section";
+"dashboard_round_settings_title" = "Round Settings & FIRE TV";
+"dashboard_round_settings_subtitle" = "Round-by-round settings & TV Display";
+"dashboard_exit_event" = "Exit Event";
+"dashboard_logout_title" = "Logout";
+"dashboard_logout_subtitle" = "Goodbye!";
+"legal" = "Legal";
+"dashboard_terms_title" = "Terms of Service";
+"dashboard_terms_subtitle" = "Review the Terms of Service";
+"dashboard_privacy_title" = "Privacy Policy";
+"dashboard_privacy_subtitle" = "Review the Privacy Policy";
+"select_devices" = "Select Device(s)";
+"rounds_title" = "Rounds";
+"rounds_empty" = "No rounds found.\nPlease inform your manager.";
+"england_privacy_policy" = "England Privacy Policy";
+"rules_of_golf" = "Rules of Golf";
+"sign_out" = "Sign Out";
+"member_portal_empty" = "The portal is empty.";
+"albums_title" = "Albums";
+"albums_empty" = "No albums found";
+"assign_carts_title" = "ASSIGN CARTS";
+"cameraroll_or_photo" = "From camera roll or take photo";
+"assign_players_to_carts" = "Assign players to carts";
+
+"album_list" = "Album List";
+"upload_photo_progress" = "Uploading photo…";
+"upload_photo_failure" = "Unable to upload your photo";
+"upload_photo_success" = "Photo uploaded";
+"upload_another_photo" = "Upload another photo";
+"photo" = "Photo";
+"gallery" = "Gallery";
+"upload" = "Upload";
+"loading_gallery" = "Loading gallery…";
+"no_photos_in_album" = "There are no photos uploaded in this album";
+"round_launch_shows_title" = "Amazon Fire TV";
+"round_launch_shows_subtitle" = "Fling TV Display to Amazon Fire TV";
+"round_settings_real_time_mode_title" = "Mobile Score Entry";
+"round_settings_real_time_mode_subtitle" = "Enable / Disable mobile score entry";
+"round_settings_tournaments_in_progress_title" = "Tournaments in Progress";
+"round_settings_tournaments_in_progress_subtitle" = "Enable / Disable tournaments in progress";
+"round_settings_teesheet_released_title" = "Show Pairings in Member Portal";
+"round_settings_teesheet_released_subtitle" = "Show / Hide pairings from Member Portal";
+"edit_round_settings_title_real_time_mode" = "Score Entry";
+"edit_round_settings_title_teesheet_released" = "Show / Hide Teesheets";
+"refreshing" = "Refreshing…";
+"error_attempting_to_play" = "Error attempting to Play";
+"edit_score_title" = "Scoring";
+"view_results" = "View Results";
+"select_hole" = "Select hole";
+"help" = "Help";
+"undo" = "Undo";
+"save" = "Save";
+"quick_tip" = "Quick Tip";
+"edit_score_help" = "By default, scores are not recorded for a hole, and this is reflected with a \"x\".  \n\nWhen you click on minus or plus, the score will go to par. You can then click plus or minus to record a player's score. \n\nIf a player does not complete a hole, press minus until \"x\" appears. \n\nPlayers with a red \"x\" cannot enter scores.";
+"refresh" = "Refresh";
+"pos" = "Pos";
+"name" = "Name";
+"thru" = "Thru";
+"to_par" = "To Par";
+"gross" = "Gross";
+"net" = "Net";
+"position" = "Position";
+"edit" = "Edit";
+"par" = "Par";
+"handicap" = "Handicap";
+"no_pairings" = "No pairings were found for this round.\nPlease inform your manager.";
+"no_rounds_alert" = "No rounds available";
+"round" = "Round";
+"clear_scores" = "Clear Scores";
+"are_you_sure" = "Are you sure?";
+"no_foursomes" = "There are no foursomes to enter scores for in this round";
+"league_ggid_logged_in" = "You are logged in using a league or event GGID. You cannot enter scores.";
+"alert" = "Alert";
+"loading_photos" = "Loading Photos";
+"leave_page_warning" = "You are about to leave this page without uploading your photo. Are you sure you want to continue?";
+"from_camera" = "From Camera";
+
+// <!-- LeagueListActivity -->
+"choose_an_event" = "Choose an event to";
+"get_started" = "Get Started!";
+"enter_your_events_name" = "Enter Your Event's Name";
+"tap_your_name_to_get_started" = "Tap Your Name to get Started!";
+"no_foursomes_available" = "No foursomes available";
+"no_carts_available" = "No carts available";
+"view_and_enter_scores" = "View and enter scores";
+
+// <!-- RoundListActivity -->
+"select_round" = "Select Round";
+"scoring_stations_title" = "Scoring Stations";
+"score_verification_title" = "Score Verification";
+"league_name" = "League Name";
+"course_name" = "Course Name";
+"scoring_station" = "Scoring Station";
+"value" = "Value";
+"scoring_stations_not_enabled_message" = "Mobile scoring is not enabled. Please inform your manager.";
+"prev" = "Prev";
+"next" = "Next";
+"previous" = "&lt; Prev";
+"player_name" = "Player Name";
+"verify_scores" = "Verify Scores";
+"log_out_arrow_icon" = "\uf0a8";
+"back_arrow_icon" = "\uf060";
+"hamburger_icon" = "\uf0c9";
+"calendar_icon" = "\uf073";
+"choose_who_you_mark" = "You can choose on the next screen the players you want to mark today.";
+"digital_scorecard_tooltip_message" = "Scores have been submitted \n and are waiting player \n certification. You can make \n changes and certify again \n before the player himself \n certifies the scores. If the \n player cannot certify the \n scores himself, show him the \n digital scorecard and certify \n on his behalf using his \n personal player GGID.";
+"certify_as_player" = "Certify as Player";
+"certify_as_marker" = "Certify as Marker";
+"did_not_keep_scores" = "You did not keep scores for any player";
+"submitted_scores" = "Submitted Scores";
+"marker" = "Marker";
+"my_scores" = "My scores";
+"extra_holes" = "Extra Holes";
+"station_name" = "Station Name";
+
+// <!-- FoursomeListScoringVerificationActivity -->
+"loading_pairing_groups" = "Loading Pairing Groups…";
+"results" = "Results";
+"pull_down_to_refresh" = "Pull down to refresh…";
+"last_updated" = "Last updated: ";
+"not_started" = "Not Started";
+"under_review" = "Under Review";
+"incomplete" = "Incomplete";
+"current_date" = "Current Date";
+"name_here" = "Name here!";
+"select_scorecard" = "Select Scorecard";
+"loading_rounds" = "Loading Rounds";
+"loading_sections" = "Loading Sections";
+
+// <!-- FoursomeListScoringStationsActivity-->
+"enter_pairing_group_number_of_last_name" = "Enter pairing group number or last name";
+
+// <!-- SelectScorecardActivity -->
+"loading_foursomes" = "Loading foursomes…";
+"no_holes_completed" = "No holes completed";
+"all_holes_completed" = "All holes completed";
+"partial" = "Partial";
+"hole_completed" = "hole completed.";
+"foursomes" = "Foursomes";
+
+// <!-- VerificationScreen -->
+"scores_verified_transition" = "Once the scores are verified, you will be transitioned to the next player.";
+"once_the_scores_are_verified_you_will_be_transitioned_to_the_next_team" = "Once the scores are verified, you will be transitioned to the next team.";
+
+// <!-- CourseDetailsActivity -->
+"go_home" = "Go Home";
+"tee_changed_alert" = "You changed the tee, if you continue your scores will be lost";
+"tee" = "Tee";
+"no_type" = "No type";
+"general_play_in_progress" = "General Play round in progress";
+"checking_you_in" = "Checking you in…";
+"no_handicap_index" = "You don't have a Handicap Index set";
+"your_playing_handicap_is" = "Your Playing Handicap is";
+
+// <!-- EnterVerificationScoresActivity -->
+"scores_in_yellow" = "Scores in yellow do not match the current score";
+"clear" = "Clear";
+"clear_all" = "Clear All";
+"review" = "Review";
+"leave_verification_alert" = "You are about to leave this score verification page. All scores entered will be lost. Are you sure you want to continue?";
+"verification_total_score" = "Verification Total Score";
+"total_score_verification" = "Total Score Verification";
+"hole" = "Hole";
+"yardage" = "Yardage";
+"stroke" = "Stroke";
+"score" = "Score";
+"scores" = "Scores";
+"note" = "Note";
+"notes" = "Notes";
+"verify" = "Verify";
+"in" = "In";
+"out" = "Out";
+"total" = "Total";
+"yds" = "yds";
+"meters" = "Meters";
+"meters_abbreviation" = "m";
+"clear_verification_scores_alert" = "Are you sure you want to clear the verification scores?";
+"leave_score_verification_alert" = "You are about to leave the score verification page. All entered scores will be lost. Are you sure you want to continue?";
+"previous_cumulative_score" = "Previous Cumulative Score";
+"total_cumulative_points" = "Total Cumulative Points";
+"current_round_score" = "Round Score";
+"round_points" = "Round Points";
+"previous_cumulative_total" = "Previous Cumulative Total Points";
+"total_cumulative_score" = "Total Cumulative Score";
+"save_scores" = "Save Scores";
+"clear_unsaved_scores_alert" = "You are about to clear the unsaved scores. Are you sure you want to continue?";
+"clear_scores_alert" = "Are you sure you want to clear the scores? Any unsaved changes will be lost.";
+"unsaved_scores_alert" = "You are about to clear the scores for this hole without saving. Are you sure you want to continue?";
+"local_verification_scores_alert" = "Note: the verification scores will be saved locally on this phone and you can continue the verification process later. These scores will not reflect on the leaderboard. Please confirm.";
+"certify_alert" = "Are you sure you want to certify?";
+"end_of_match_alert" = "The match is complete. Do you want to continue entering scores?";
+"no_i_am_done" = "No, I'm done!";
+"undo_changes" = "Undo Changes";
+"enter_scores_modify_scores" = "Continue Editing Scores";
+"enter_scores_view_scorecard" = "Scorecard Summary";
+"enter_scores_unsaved_scores_alert" = "You are about to undo the unsaved changes. Are you sure you want to continue?";
+"enter_scores_leaving_alert" = "You are about to leave this score entry page without saving the scores. Are you sure you want to continue?";
+"no_mobile_apps_access" = "You do not have access to use the mobile app at this point. Please contact your manager.";
+"firetv_searching" = "Searching for Fire TV Sticks in your Wi-Fi network.";
+"firetv_searching_alternative" = "Make sure you are connected to the same Wi-Fi network as your Fire TV Stick and your Fire TV Stick is plugged in and running the Golf Genius TV Display app.";
+"posting_no_connectivity" = "Your device is currently not connected to the Internet. Your request has been queued for transmission. You can continue with the next group.";
+"no_tee_time_alert" = "Please go to the Edit Pairings page and set the tee time for this round";
+"no_starting_hole_alert" = "Please go to the Edit Pairings page and set the starting holes for this round";
+"enter_scores_finish_alert" = "You have finished entering scores for this round. Would you like to modify the scores or continue to view the scorecard?";
+
+// <!-- EnterScoresSummary -->
+"view_leaderboard" = "View Leaderboard";
+"back" = "Back";
+"confirm_final_scores" = "Confirm Final Scores";
+"confirm_final_scores_alert" = "Are you sure you want to confirm the scores as final?";
+
+// <!-- SelectClubActivity -->
+"select_club" = "Please select your current club";
+"confirm" = "Confirm";
+"application_upgrade" = "Application needs to be upgraded";
+"welcome" = "Welcome";
+
+// <!-- CdhNumberActivity -->
+"whs_membership_number_hint" = "Enter your WHS Membership Number";
+"whs_membership_number" = "WHS Membership Number";
+"done" = "Done";
+"skip_for_now" = "Skip for Now";
+
+// <!-- HomeActivity -->
+"selected_club" = "Selected Club";
+"user_name" = "User Name";
+"handicap_index" = "Handicap Index";
+"general_play" = "General Play";
+"upcoming_events" = "Upcoming Events";
+"powered_by" = "powered by";
+"home" = "Home";
+"more" = "More";
+"no_clubs_alert" = "You are not part of any leagues / events / trips";
+"no_email" = "No email";
+"no_ggid_type" = "No ggid Type";
+"no_first_name" = "No first name";
+"no_last_name" = "No last name";
+"no_photo" = "No photo";
+"no_full_name" = "No full name";
+"no_club_name" = "No club name";
+"no_logo_url" = "No logo URL";
+"no_club_registration_league_id" = "No club registration league id";
+"not_on_tee_sheet" = "You are not on the tee sheet for this round yet";
+"mobile_score_entry_disabled" = "Mobile score entry disabled";
+"delete_round_confirmation_alert" = "Are you sure you want to delete this round?";
+"missing_whs_membership_number" = "Missing WHS Membership Number";
+"missing_whs_uid" = "Missing WHS Member UID";
+"no_leagues_available" = "No leagues available";
+"loading_courses" = "Loading the courses…";
+"no_courses" = "The club does not have any courses available";
+"course_handicap_calculator" = "Course Handicap Calculator";
+
+// <!-- MenuActivity -->
+"back_to_directory" = "Back to Directory";
+
+// <!-- BottomActionBarButtonsFragment -->
+"leave" = "Leave";
+"leave_confirmation_general_play_alert" = "You are about to leave the general play score entry. The current score is saved, but not posted. You can continue entering the scores later.";
+"no_events_today" = "No events today";
+"todays_event" = "Today's event";
+"event_name" = "Event name";
+"register" = "Register";
+"check_in" = "Check-In";
+"delete" = "Delete";
+
+// <!-- General Play -->
+"post_score_general_play" = "Post Score for General Play";
+"hole_by_hole" = "Hole-By-Hole";
+"hole_by_hole_description" = "Rapidly enter your hole-by-hole score";
+"total_score" = "Total Score";
+"total_score_description" = "Post total score or Front-9 and Back-9 scores";
+"scores_posted" = "Your scores are posted";
+"incomplete_scorecard_alert" = "You are about to post an incomplete scorecard. Please confirm.";
+"confirmation_alert" = "You are about to post your round score. Please confirm.";
+"yards" = "Yards";
+"check_in_time" = "Check-In Time";
+
+// <!-- Course Details -->
+"hole_by_hole_title" = "Add Hole-by-Hole score";
+"course" = "Course";
+"holes_number" = "Number of holes";
+"tees" = "Tees";
+"starting_hole" = "Starting hole";
+"attester" = "Attester";
+"check_in_start_scoring" = "Check-In and Start Scoring";
+"nine_hole_tees_missing" = "There are no 9 hole tees that can be used for posting a 9 hole General Play";
+"eighteen_hole_tees_missing" = "There are no 18 hole tees that can be used for posting an 18 hole General Play";
+
+// <!-- Hole By Hole -->
+"invalid_score_alert" = "You can’t have a score of 0. Please add a valid score.";
+"post_score" = "Post Score";
+"post_score_no_connectivity" = "Your scores have been saved in our system, but due to an error they were not posted to WHS";
+"post_score_alert" = "Server error. Could not post score.";
+
+// <!-- Total Score -->
+"add_total_score" = "Add Total Score";
+"front_nine" = "Front 9";
+"back_nine" = "Back 9";
+"total_score_hint" = "Type Number";
+"no_course_handicap" = "No Course Handicap";
+"posting_score" = "Posting your score…";
+
+// <!-- Handicap Calculator -->
+"handicap_calculator" = "Handicap Calculator";
+"eighteen_hole_handicap_index" = "18-Hole H.I.";
+"course_rating" = "Course Rating";
+"slope_rating" = "Slope Rating";
+"handicap_allowance" = "Handicap Allowance";
+"handicap_allowance_information" = "The percentage of a Course Handicap recommended to create equity for all players participating in a specific format of play.";
+"calculate" = "Calculate";
+"your_course_handicap" = "Your Course Handicap is";
+"note_handicap_calculator" = "Note: If determining a 9-hole Course Handicap, type in the 18-hole Handicap Index. Next type in the 9-hole Course Rating, 9-hole Slope Rating and 9-hole Par before selecting Calculate. A 9-hole Course Handicap will be calculated from the 18-hole Handicap Index when the Course Rating is between 20.0-45.0.";
+"see_calculation" = "See Calculation";
+"handicap_index_invalid_number_alert" = "You should enter a valid number for the Handicap Index";
+"handicap_index_decimal_alert" = "Handicap Index must have maximum one decimal";
+"handicap_index_range_alert" = "Handicap Index should be between +9.9 and 54.0";
+"course_rating_invalid_alert" = "You should enter a valid number for the Course Rating";
+"course_rating_decimal_alert" = "Course Rating must have maximum one decimal";
+"course_rating_range_alert" = "Course Rating should be between 20.0 and 45.0 for 9-holes and between 45.1 and 90.0 for 18-holes";
+"slope_rating_range_alert" = "Slope Rating should be between 55 and 155";
+"par_range_alert" = "Par should be between 20 and 90";
+
+// <!-- Pace of Play -->
+"group" = "Group";
+"checkpoint" = "Checkpoint";
+"recorded_time" = "Recorded Time";
+"group_message" = "Message for the group";
+"your_group_is_on_time" = "Your group is on time";
+"observations" = "Observations";
+"missed_checkpoints" = "Missed Checkpoints";
+"expected" = "Expected";
+"interval" = "Interval";
+"next_group" = "Next Group";
+"hole_completed_pop" = "►► HOLE COMPLETED ◄◄";
+"checkpoint_summary" = "Checkpoint Summary";
+"clock" = "Clock";
+"deadline" = "Deadline";
+"hours" = "hours";
+"minutes" = "minutes";
+"seconds" = "seconds";
+
+// <!--  DCP station  -->
+"gir" = "GIR";
+"drive" = "Drive";
+"driving_acc" = "Driving Acc.";
+"chip" = "Chip";
+"putt" = "Putt";
+"putts" = "Putts";
+"attempts" = "Attempts";
+"points" = "Points";
+"skill" = "Skill";
+"no_attempt" = "No attempt";
+"twenty_five_yards_or_less" = "1 25 yards or less";
+"range_25_50" = "2 25 – 50 yards";
+"range_50_75" = "3 50 – 75 yards";
+"range_75_100" = "4 75 – 100 yards";
+"range_100_110" = "5 100 – 110 yards";
+"range_110_120" = "6 110 – 120 yards";
+"range_120_130" = "7 120 – 130 yards";
+"range_130_140" = "8 130 – 140 yards";
+"range_140_150" = "9 140 – 150 yards";
+"range_150_160" = "10 150 – 160 yards";
+"range_160_170" = "11 160 – 170 yards";
+"range_170_180" = "12 170 – 180 yards";
+"range_180_190" = "13 180 – 190 yards";
+"range_190_200" = "14 190 – 200 yards";
+"range_200_210" = "15 200 – 210 yards";
+"range_210_220" = "16 210 – 220 yards";
+"range_220_230" = "17 220 – 230 yards";
+"range_230_240" = "18 230 – 240 yards";
+"range_240_250" = "19 240 – 250 yards";
+"range_250_260" = "20 250 – 260 yards";
+"range_260_270" = "21 260 – 270 yards";
+"range_270_280" = "22 270 – 280 yards";
+"range_280_290" = "23 280 – 290 yards";
+"range_290_300" = "24 290 – 300 yards";
+"three_hundred_yards_or_more" = "25 300+ yards";
+"more_than_ten" = "1 More than 10'";
+"range_8_10" = "2 8' – 10'";
+"range_6_8" = "5 6' – 8'";
+"range_4_6" = "10 4' – 6'";
+"range_2_4" = "15 2' – 4'";
+"two_or_nearer" = "20 2' or nearer";
+"dcp_hole_in_one" = "25 Hole in One";
+"more_than_five" = "1 More than 5'";
+"range_4_5" = "2 4' – 5'";
+"range_3_4" = "5 3' – 4'";
+"range_2_3" = "10 2' – 3'";
+"range_1_2" = "15 1' – 2'";
+"one_or_nearer" = "20 1' or nearer";
+
+//// <!-- BRS -->
+//"app_name" = "BRSGolf Scoring";
+//"timeout_message" = "Unable to connect to BRSGolf Scoring.";
+//"update_message" = "A new version of the BRSGolf Scoring app is available on Google Play. Would you like to download it right now? The version now on your phone works, so you can upgrade now or at a later time.";
+//"login_empty_all" = "You must fill in either your BRSGolf Scoring account or your GGID";
+//"login_empty_password_ggid" = "You must fill in the password of your BRSGolf Scoring account";
+//"login_empty_email_ggid" = "You must fill in the email address of your BRSGolf Scoring account";
+//
+//// <!-- Golf Canada -->
+//"app_name" = "Golf Canada TM";
+//"timeout_message" = "Unable to connect to Golf Canada TM.";
+//"update_message" = "A new version of the Golf Canada TM app is available on Google Play. Would you like to download it right now? The version now on your phone works, so you can upgrade now or at a later time.";
+//"login_empty_all" = "You must fill in either your Golf Canada TM account or your GGID";
+//"login_empty_password_ggid" = "You must fill in the password of your Golf Canada TM account";
+//"login_empty_email_ggid" = "You must fill in the email address of your Golf Canada TM account";
+//
+//// <!-- USGA -->
+//"app_name" = "USGA TM";
+//"timeout_message" = "Unable to connect to USGA Tournament Management.";
+//"update_message" = "A new version of the USGA Tournament Management app is available on Google Play. Would you like to download it right now? The version now on your phone works, so you can upgrade now or at a later time.";
+//"login_title" = "USGA Tournament Management";
+//"login_empty_all" = "You must fill in either your USGA Tournament Management account or your GGID";
+//"login_empty_pass_ggid" = "You must fill in the password of your USGA Tournament Management account";
+//"login_empty_email_ggid" = "You must fill in the email address of your USGA Tournament Management account";

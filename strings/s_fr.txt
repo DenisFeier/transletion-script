@@ -1,0 +1,553 @@
+"app_name" = "Golf Genius";
+"timeout_title" = "Erreur de réseau";
+"timeout_message" = "Incapable d'établir la connexion avec Golf Genius.";
+"retry" = "Essayer à nouveau";
+"quit" = "Sortir";
+"update_title" = "Nouvelle version disponible!";
+"update_message" = "Une nouvelle version de l'appli Golf Genius est disponible sur Google Play. Est-ce que vous voulez la télécharger maintenant? La version qui se trouve actuellement sur votre téléphone fonctionne; vous pouvez donc la mettre à niveau maintenant ou plus tard.";
+"update" = "Mettre à jour";
+"later" = "Plus tard";
+"login_error_title" = "Incapable d'ouvrir une session";
+"ok" = "OK";
+"login_no_user" = "Aucun enregistrement d'utilisateur trouvé pour cet e-mail. Veuillez vous inscrire sur notre site Web ou demander un GGID à votre responsable.";
+"error_has_occurred" = "[fr]An error has occurred. Please try again.";
+"yes" = "Oui";
+"no" = "Non";
+"select_photo_source" = "Sélectionner la source de la photo";
+"take_photo" = "Prendre une photo";
+"from_gallery" = "De la Galerie";
+"tap_to_select_photo" = "Taper pour sélectionner une photo à télécharger";
+"change_your_photo" = "Taper pour changer votre photo";
+
+// <!-- Login -->
+"sign_in_using" = "OUVRIR UNE SESSION AVEC VOTRE";
+"ggid" = "GGID";
+"or" = "ou";
+"email_and_password" = "Courriel et Mot de passe";
+"email_address" = "Adresse de courriel";
+"password" = "Mot de passe";
+"forgot_password" = "Vous avez oublié votre mot de passe?";
+"sign_in" = "Ouvrir une Session";
+"login_empty_all" = "Vous devez saisir votre compte Golf Genius ou votre GGID";
+"login_empty_pass_ggid" = "Vous devez saisir le mot de passe de votre compte Golf Genius";
+"login_empty_email_ggid" = "Vous devez saisir l'adresse de courriel de votre compte Golf Genius";
+"login_empty_ggid" = "Vous devez saisir votre GGID";
+"login_empty_email_and_password" = "Vous devez saisir votre compte Golf Genius";
+"sign_in_loading" = "Ouverture d\'une session. Veuillez patienter…";
+"forgot_password_empty_email" = "Veuillez saisir votre courriel dans le champ adresse de courriel.";
+"hint_initials" = "Saisissez vos initiales, par ex., MZ";
+"continue_text" = "Continuer";
+"ggid_empty" = "Veuillez saisir vos initiales";
+"dashboard_logout_title" = "Fermer la session";
+"leagues_title" = "Vos événements";
+"search" = "Rechercher";
+
+// <!-- Dashboard -->
+"dashboard_title" = "Tableau de bord";
+"loading" = "Chargement en cours…";
+"section_on_the_course" = "Sur le terrain";
+"dashboard_enter_scores_subtitle" = "Saisir les scores de votre groupe";
+"dashboard_digital_scorecards_title" = "CARTES DE POINTAGE NUMÉRIQUES";
+"dashboard_digital_scorecards_subtitle" = "Révisez vos scores et vos notes";
+"dashboard_marker_options_subtitle" = "Changez qui vous marquez";
+"dashboard_marker_options_title" = "OPTIONS DE MARQUER";
+"dashboard_leaderboard_subtitle" = "Afficher les tournois en cours";
+"dashboard_upload_photo_subtitle" = "De la galerie ou prendre une photo";
+
+// <!-- DigitalScorecardsDescriptionActivity -->
+"you_are_the_marker_for" = "Vous êtes le marqueur pour";
+"your_marker_is" = "Votre marqueur est";
+"hi" = "Bonjour,";
+"welcome_to" = "Bienvenue à";
+"date" = "Date";
+"course_handicap" = "Handicap de parcours";
+"playing_handicap" = "Handicap de jeu";
+"confirm_and_continue" = "Confirmer et continuer";
+
+// <!-- Digital Scorecards PlayerChoiceActivity -->
+"choose_the_players_you_want_to_mark" = "Choisissez le(s) joueur(s) pour le(s)quel(s) vous souhaitez être le marqueur";
+"maximum_number_of_markers" = "Vous avez atteint le nombre maximal de marqueurs.";
+
+// <!-- DigitalScorecardsEnterScoresActivity -->
+"players" = "Joueurs";
+"markers_notes" = "Notes du marqueur";
+
+// <!-- EnterScoresScoringStationsActivityV2 -->
+"please_verify_the_scores" = "Veuillez vérifier les scores.";
+"once_saved" = "Une fois les scores enregistrés, vous passerez au prochain joueur.";
+"scores_correct_tap_on" = "Si les scores sont corrects, tapez sur";
+"once_saved_no_changes" = "Une fois les scores enregistrés, vous passerez au prochain joueur et vous ne pourrez plus effectuer de changements.";
+"scores_incorrect_tap_on" = "Si les scores ne sont pas corrects, tapez sur";
+"cancel" = "Annuler";
+"to_adjust" = "pour les ajuster.";
+"enter_foursome_number_or_last_name" = "Entrez le numéro à quatre ou le nom de famille";
+
+// <!-- ScoringStationsDescriptionActivity -->
+"holes" = "Trous";
+
+// <!-- EnterScoresMatchPlayExtraHolesActivity -->
+"add_extra_hole" = "+ Ajouter\nun trou supplémentaire";
+"as" = "COMME";
+"won_by_default" = "A gagné par défaut";
+"won" = "GAGNÉ";
+"match_play_once_the_scores_are_saved" = "Une fois les scores enregistrés, vous passerez au trou suivant. ";
+"match_play_once_the_scores_are_saved_no_more_changes" = "Une fois les scores enregistrés, vous passerez au prochain trou et vous ne pourrez plus effectuer de changements. ";
+
+// <!-- ScoreReviewActivity -->
+"scorecards_incomplete_message" = "Les cartes de pointage sont actuellement incomplètes, mais vous pouvez réviser les scores du marqueur et du joueur. Une fois les scores révisés, tapez sur \"Certifier\" pour signer la carte de pointage.";
+"all_scores_are_entered" = "Tous les scores ont été saisis. Révisez les scores du marqueur et du joueur et cliquez sur le score pour le modifier. Tapez sur \"Certifier\" pour signer la carte de pointage.";
+"review_your_scores" = "Révisez vos scores. Comparez-les avec ceux du marqueur et certifiez-les. Si vous constatez des divergences, avisez votre marqueur.";
+"stroke_index_new_line" = "Coups de\nhandicap";
+"stroke_index" = "Coups de handicap";
+"markers" = "Marqueurs";
+"player_cannot_certify" = "Le joueur ne peut pas effectuer la certification?";
+"click_here" = "Cliquer ici";
+"use_this_tool_to_cerfity" = "Utilisez cet outil pour certifier les scores au nom du";
+"certify_tip" = ". Assurez-vous que le joueur puisse voir les scores qu'il est sur le point de certifier. Lorsque le joueur aura examiné les scores, il peut alors vous fournir sa GGID de joueur. Saisissez cette GGID ici et tapez sur \"Certifier\".";
+"scores_saved" = "Scores enregistrés.";
+"keyboard_save" = "Enregistrer |";
+"waiting_for_marker" = "Nous attendons le marqueur…";
+"swipe_left_to_certify" = "Pour certifier vos scores, glissez vers la gauche";
+"certify_another_player" = "Vous devez certifier les scores d'un autre joueur? Cliquer ici";
+
+// <!-- PopUp -->
+"player_not_available_anymore" = "Désolé, ce lecteur n'est plus disponible. ";
+"legend" = "Légende";
+"last_refresh" = "Dernier rafraîchissement à";
+"eagle_or_better" = "Aigle ou mieux";
+"birdie" = "Oiselet";
+"bogey" = "Boguey";
+"double_bogey_or_worse" = "Double boguey ou pire";
+"conflict" = "Conflit";
+"cannot_add_scores" = "Ne peut pas additionner les score";
+"certify" = "Certifier";
+"player_ggid" = "GGID de joueur";
+
+// <!-- EnterScoresActivityV2-->
+"loading_leaderboard" = "Chargement du tableau de classement…";
+"file_chooser" = "Sélecteur de fichier";
+"file_browser" = "Navigateur de fichier";
+"flip_your_device" = "Basculez votre appareil de côté pour obtenir une meilleure vue";
+
+// <!-- ScorecardActivity -->
+"loading_scorecard" = "Chargement de la carte de pointage…";
+"dashboard_enter_scores_title" = "Saisir les scores";
+
+// <!-- WebViewActivity -->
+"edit_registration" = "Modifier l'inscription";
+"add_to_waitlist" = "Ajouter à la liste d'attente";
+"register_now" = "S'inscrire maintenant";
+"get_menu_sections" = "Afficher les sections du menu";
+"tee_sheet" = "Feuille des départs";
+"image_chooser" = "Sélecteur d'image";
+"other" = "Autre";
+"dashboard_scorecards_subtitle" = "Afficher les cartes de pointage";
+"dashboard_tee_sheets_title" = "FEUILLES DES DÉPARTS";
+"dashboard_tee_sheets_subtitle" = "Afficher les groupes de départ pour vos rondes";
+"dashboard_member_portal_subtitle" = "Afficher la section des membres";
+"dashboard_round_settings_subtitle" = "Paramètres ronde par ronde et écran du téléviseur";
+"dashboard_logout_subtitle" = "Au revoir!";
+"legal" = "Dispositions légales";
+"dashboard_terms_subtitle" = "Réviser les conditions d'utilisation";
+"dashboard_privacy_subtitle" = "Réviser la politique de confidentialité";
+"select_devices" = "Sélectionner l'appareil/les appareils";
+"rounds_title" = "Rondes";
+"rounds_empty" = "Aucune ronde n'a été trouvée. \nVeuillez aviser le directeur.";
+"dashboard_terms_title" = "Conditions d'utilisation";
+"dashboard_privacy_title" = "Politique de confidentialité";
+"england_privacy_policy" = "Politique de confidentialité d'England Golf";
+"rules_of_golf" = "Règles du golf";
+"sign_out" = "Fermer la session";
+"dashboard_member_portal_title" = "Portail des membres";
+"member_portal_empty" = "Ce portail est vide.";
+"albums_title" = "Albums";
+"albums_empty" = "Aucun album trouvé";
+
+// <!-- AlbumListActivity -->
+"album_list" = "Liste d'albums";
+"dashboard_upload_photo_title" = "Télécharger une Photo";
+"upload_photo_progress" = "Téléchargement de la photo…";
+"upload_photo_failure" = "Nous ne pouvons pas télécharger votre photo";
+"upload_photo_success" = "Photo téléchargée";
+"photo" = "Photo";
+"gallery" = "Galerie";
+"upload" = "TÉLÉCHARGER";
+"loading_gallery" = "Chargement de la Galerie…";
+"no_photos_in_album" = "Aucune photo n'est téléchargée dans cet album";
+"dashboard_round_settings_title" = "Paramètres de la ronde et Fire TV";
+"round_settings_real_time_mode_title" = "Saisie des scores sur des appareils mobiles";
+"round_launch_shows_title" = "Fire TV d'Amazon";
+"round_launch_shows_subtitle" = "Projeter l'écran du téléviseur sur Fire TV d'Amazon";
+"round_settings_real_time_mode_subtitle" = "Activer / Désactiver la saisie des scores sur des appareils mobiles";
+"round_settings_tournaments_in_progress_title" = "Tournois en cours";
+"round_settings_tournaments_in_progress_subtitle" = "Activer / Désactiver les tournois en cours";
+"round_settings_teesheet_released_title" = "Afficher les groupes de départ dans le portail des membres";
+"round_settings_teesheet_released_subtitle" = "Afficher / Masquer les groupes de départ du portail des membres";
+"edit_round_settings_title_real_time_mode" = "Saisie des scores";
+"edit_round_settings_title_teesheet_released" = "Afficher / Masquer les feuilles des départs";
+"refreshing" = "Rafraîchissement en cours…";
+"error_attempting_to_play" = "Erreur lors de la tentative de lecture";
+"edit_score_title" = "Notation\n des scores";
+"view_results" = "Afficher les résultats";
+"select_hole" = "Sélectionner un trou";
+"hole" = "Trou";
+"help" = "Aide";
+"undo" = "Défaire";
+"save" = "Enregistrer";
+"quick_tip" = "Conseil rapide";
+"edit_score_help" = "Par défaut, les scores ne sont pas enregistrés pour un trou, et cela est représenté par un \"x\".  \n\Lorsque vous cliquez sur le signe plus ou moins, le score de la normale s'affiche. Vous pouvez alors cliquez sur le plus ou le moins pour enregistrer le score du joueur. \n\nSi un joueur ne termine pas un trou, appuyez sur le moins jusqu'à ce que \"x\" s'affiche. \n\nLes joueurs avec un \"x\" rouge ne peuvent pas saisir de scores.";
+"dashboard_leaderboard_title" = "Tableau de classement";
+"refresh" = "Rafraîchir";
+"pos" = "Pos";
+"name" = "Nom";
+"thru" = "Jusqu'au";
+"to_par" = "Selon la normale:";
+"gross" = "Brut";
+"net" = "Net";
+"position" = "Position";
+"edit" = "Modifier";
+"scorecard_foursome" = "%1$s - Quatuor %2$d";
+"par" = "Normale";
+"handicap" = "Handicap";
+"no_pairings" = "Aucun groupe de départ n'a été trouvé pour cette ronde.\nAviser le directeur.";
+"no_rounds_alert" = "Aucune ronde n'a été trouvée.";
+"clear_scores" = "Effacer les scores";
+"are_you_sure" = "Êtes-vous certain?";
+"edit_score_dialog_clear_msg" = "Êtes-vous certain de vouloir supprimer les scores pour ce trou?";
+"no_foursomes" = "Il n'y a pas de scores de quatuor à saisir pour cette ronde.";
+"league_ggid_logged_in" = "Vous avez ouvert une session au moyen de la GGID d'une ligue ou d'un événement. Vous ne pouvez pas saisir des scores.";
+
+// <!-- LeagueListActivity -->
+"choose_an_event" = "Choisir un événement pour";
+"get_started" = "COMMENCEZ!";
+"enter_your_events_name" = "Saisissez le nom de votre événement";
+"tap_your_name_to_get_started" = "TAPEZ SUR VOTRE NOM POUR COMMENCER!";
+
+// <!-- RoundListActivity -->
+"select_round" = "Sélectionner la ronde";
+"scoring_stations_title" = "Postes de notation des scores";
+"score_verification_title" = "Vérification du score";
+"league_name" = "Nom de la ligue";
+"round_date" = "Date de la Ronde";
+"course_name" = "Nom du parcours";
+"scoring_station" = "Poste de notation\ndes scores";
+"value" = "Valeur";
+"scoring_stations_not_enabled_message" = "La notation des scores sur des appareils mobiles n'est pas activée. Veuillez en aviser votre directeur.";
+"previous" = "< Préc";
+"scoring_stations_next" = "Suivant > ";
+"player_name" = "Nom du joueur";
+"verify_scores" = "Vérifier les scores";
+"scoring_stations_log_out_arrow_unicode" = "\uf0a8";
+"scoring_stations_back_arrow_unicode" = "\uf060";
+"hamburger_icon" = "\uf0c9";
+"calendar_unicode" = "\uf073";
+"choose_who_you_mark" = "Sur l'écran suivant, vous pouvez choisir les joueurs pour lesquels vous souhaitez être le marqueur.";
+"digital_scorecard_tooltip_message" = "Les scores ont été soumis \net attendent la certification \ndu joueur. Vous pouvez effectuer des \n changements et certifier les scores \nà nouveau avant que le joueur lui-même \n certifie les scores. Si le\njoueur ne peut pas certifier les\nscores lui-même, montrez-lui la\ncarte de pointage numérique et\ncertifiez-les en son nom en utilisant\nsa GGID personnelle de joueur.";
+"certify_as_player" = "Certifier à titre de joueur";
+"certify_as_marker" = "Certifier à titre de marqueur";
+"did_not_keep_scores" = "Vous n'avez pas marqué les scores d'aucun joueur";
+"submitted_scores" = "Soumettre les scores";
+"marker" = "Marqueur";
+"my_scores" = "Mes scores";
+"extra_holes" = "Trous supplémentaires";
+
+// <!-- FoursomeListScoringVerificationActivity -->
+"loading_pairing_groups" = "Chargement des groupes de départ…";
+"results" = "Résultats";
+"enter_pairing_group_number_of_last_name" = "Entrez le numéro ou le nom du groupe de couplage";
+"pull_down_to_refresh" = "Tirez vers le bas pour rafraîchir…";
+"last_updated" = "Dernière mise à jour:";
+"not_started" = "Pas\ncommencée";
+"under_review" = "Sous revue";
+"incomplete" = "Incomplète";
+"current_date" = "Date actuelle";
+"name_here" = "Mettre le nom ici!";
+"next" = "Suivant";
+"select_scorecard" = "Sélectionner la carte de pointage";
+
+// <!-- FoursomeListScoringStationsActivity-->
+"enter_group_number_or_last_name" = "Saisir le numéro du groupe ou le nom de famille";
+
+// <!-- FoursomesActivity -->
+"loading_foursomes" = "Chargement des quatuors…";
+"no_holes_completed" = "Aucun trou n'a été terminé.";
+"all_holes_completed" = "Tous les trous ont été terminés.";
+"partial" = "Trou";
+"hole_completed" = "Partiel terminé";
+"foursomes" = "Quatuors";
+
+// <!-- VerificationScreen -->
+"scores_verified_transition" = "Une fois les scores vérifiés, vous passerez au joueur suivant.";
+
+// <!-- CourseDetailsActivity -->
+"tee" = "Jalon";
+"no_type" = "Pas de type";
+"general_play_in_progress" = "Ronde de jeu général en cours";
+"checking_you_in" = "Votre enregistrement …";
+"no_handicap_index" = "Vous n'avez pas";
+"your_playing_handicap_is" = "Votre handicap de jeu est";
+
+// <!-- EnterVerificationScoresActivity -->
+"scoring_regime_array_image_description" = "X";
+"iv_checked_player" = "Checked";
+"scores_in_yellow" = "Les scores en jaune ne correspondent pas au score actuel";
+"clear" = "Effacer";
+"clear_all" = "Effacer tous";
+"review" = "Réviser";
+"leave_verification_alert" = "Vous êtes sur le point de quitter cette page de vérification des scores. Tous les scores saisis seront perdus. Êtes-vous certain de vouloir continuer?";
+"verification_total_score" = "Vérification du score total";
+"total_score_verification" = "[fr]Total Score Verification";
+"yardage" = "Métrage";
+"stroke" = "Coup";
+"score" = "Score";
+"note" = "Note";
+"notes" = "Notes";
+"verify" = "Vérifier";
+"in" = "Retour";
+"out" = "Aller";
+"yds" = "verges";
+"meters" = "Mètres";
+"meters_abbreviation" = "\u0020m";
+"clear_verification_scores_alert" = "Êtes-vous certain de vouloir effacer les scores de vérification?";
+"leave_score_verification_alert" = "Vous êtes sur le point de quitter la page de vérification des scores. Tous les scores saisis seront perdus. Êtes-vous certain de vouloir continuer?";
+"previous_cumulative_score" = "Score cumulatif précédent";
+"current_round_score" = "Score de la ronde actuelle";
+"total_cumulative_score" = "Score cumulatif total";
+"save_scores" = "Enregistrer les scores";
+"clear_unsaved_scores_alert" = "Vous êtes sur le point d'effacer les scores non enregistrés. Êtes-vous certain de vouloir continuer?";
+"clear_scores_alert" = "Êtes-vous certain de vouloir effacer les scores? Tout changement non enregistré sera perdu";
+"unsaved_scores_alert" = "Vous êtes sur le point d'effacer les scores de ce trou sans les enregistrer. Êtes-vous certain de vouloir continuer?";
+"local_verification_scores_alert" = "Remarque: Les scores de vérification seront enregistrés localement sur votre appareil et vous pourrez continuer le processus de vérification plus tard. Ces scores ne seront pas affichés sur le tableau de classement. Veuillez confirmer.";
+"certify_alert" = "Êtes-vous certain de vouloir effectuer la certification?";
+"end_of_match_alert" = "Le match est terminé. Voulez-vous continuer à saisir des scores?";
+"no_i_am_done" = "Non, j'ai terminé!";
+"undo_changes" = "Défaire les changements";
+"enter_scores_modify_scores" = "Continuer à modifier les scores";
+"enter_scores_view_scorecard" = "Sommaire des cartes de pointage";
+"enter_scores_unsaved_scores_alert" = "Vous êtes sur le point de défaire les changements non enregistrés. Êtes-vous certain de vouloir continuer?";
+"enter_scores_leaving_alert" = "Vous êtes sur le point de quitter cette page de saisie des scores sans avoir enregistré les scores. Êtes-vous certain de vouloir continuer?";
+"no_mobile_apps_access" = "Vous n'avez pas accès pour utiliser l'appli mobile en ce moment. Communiquez avec votre directeur.";
+"firetv_searching" = "Recherche des Fire TV Sticks sur votre réseau Wi-Fi.";
+"firetv_searching_alternative" = "Vérifiez que vous êtes relié au même réseau Wi-Fi que votre Fire TV Stick et que ce dernier est branché et exécute l'appli écran du téléviseur de Golf Genius.";
+"weather_delay_default" = "[fr]Weather delay of 90 minutes expected.\nPlease return to the clubhouse.";
+"posting_no_connectivity" = "Votre appareil n'est pas actuellement relié à Internet. Votre demande a été mise en attente pour la transmission. Vous pouvez continuer avec le groupe suivant.";
+"no_tee_time_alert" = "Veuillez aller à la page Modifier les groupes de départ et régler l'heure de départ pour cette ronde";
+"no_starting_hole_alert" = "Veuillez aller à la page Modifier les groupes de départ et régler les trous de départ pour cette ronde";
+"enter_scores_finish_alert" = "Vous avez terminé la saisie des scores pour cette ronde. Souhaitez-vous modifier les scores ou continuer à afficher la carte de pointage?";
+
+// <!-- EnterScoresSummary -->
+"dashboard_scorecards_title" = "Cartes de pointage";
+"view_leaderboard" = "Afficher le tableau de classement";
+"back" = "Retour";
+"confirm_final_scores" = "Confirmer les scores finaux";
+"confirm_final_scores_alert" = "Êtes-vous certain de vouloir confirmer les scores comme étant finaux?";
+
+// <!-- Golf Genius -->
+
+// <!-- SelectClubActivity -->
+"select_club" = "Sélectionnez votre club actuel.";
+"confirm" = "Confirmer";
+"ivClubLogo" = "Logo du Club";
+"tvClubName" = "Aberdeen Golf Club";
+"application_upgrade" = "L'application doit être mise à niveau";
+"welcome" = "Bienvenue";
+
+// <!-- CdhNumberActivity -->
+"whs_membership_number_hint" = "Saisir votre numéro de membre au WHS";
+"whs_membership_number" = "Numéro de membre au WHS";
+"done" = "Terminé";
+"skip_for_now" = "Sauter pour le moment";
+
+// <!-- HomeActivity -->
+"ivUpButton" = "Bouton vers le haut";
+"selected_club" = "Club choisi";
+"user_name" = "Nom d'utilisateur";
+"handicap_index" = "Indice de handicap";
+"general_play" = "Jeu général";
+"upcoming_events" = "Événements futurs";
+"powered_by" = "propulsé par";
+"ivDescription" = "Logo Golf Genius";
+"home" = "Accueil";
+"more" = "Plus";
+"no_email" = "Pas de courriel";
+"no_ggid_type" = "Pas de type de GGID";
+"no_first_name" = "Pas de prénom";
+"no_last_name" = "Pas de nom de famille";
+"no_photo" = "Pas de photo";
+"no_full_name" = "Pas de nom complet";
+"no_club_name" = "Pas de nom de club";
+"no_logo_url" = "Pas d'URL de logo";
+"no_club_registration_league_id" = "Pas d'ID de ligue d'inscription à un club";
+"delete_supplemental_score_request_not_successful" = "Demande de suppression de score supplémentaire refusée";
+"delete_supplemental_score_request_is_null" = "La réponse à la suppression du score supplémentaire est nulle";
+"delete_supplemental_score_status_error" = "Erreur de statut de suppression de score supplémentaire";
+"check_in" = "S'enregistrer";
+"not_on_tee_sheet" = "Vous ne figurez pas encore sur la feuille des départs de cette ronde.";
+"mobile_score_entry_disabled" = "Saisie des scores sur des appareils mobiles désactivée.";
+"check_in_request_not_successful" = "Demande d'enregistrement refusée";
+"delete_round_confirmation_alert" = "Êtes-vous certain de vouloir supprimer cette ronde?";
+"missing_whs_membership_number" = "Numéro de membre au WHS manquant";
+"missing_whs_uid" = "UID de membre du WHS manquant";
+"todays_events_request_not_successful" = "Demande des événements d'aujourd'hui refusée";
+"todays_events_data_is_null" = "Les données des événements d'aujourd'hui sont nulles";
+"no_leagues_available" = "Aucune ligue n'est disponible";
+"handicap_request_not_successful" = "Demande de handicap refusée";
+"error_parsing_refresh_data" = "Erreur d'analyse, rafraîchir les données";
+"handicap_data_is_null" = "Les données de handicap sont nulles";
+"loading_courses" = "Chargement des parcours…";
+"no_courses" = "Le club n'a pas de parcours disponibles";
+"courses_request_not_successful" = "Demande de parcours refusée";
+"course_data_is_null" = "Les données de parcours sont nulles";
+"course_handicap_calculator" = "Handicap de parcours Calculateur";
+
+// <!-- MenuActivity -->
+"back_to_directory" = "Retour au répertoire";
+
+// <!-- BottomActionBarButtonsFragment -->
+"leave" = "Quitter";
+"leave_confirmation_general_play_alert" = "Vous êtes sur le point de quitter la saisie des scores de jeu général. Le score actuel est enregistré, mais pas inscrit. Vous pouvez continuer à saisir les scores plus tard.";
+"no_events_today" = "Pas d'événement aujourd'hui";
+"todays_event" = "Événement d'aujourd'hui";
+"ivGolfPin" = "Drapeau";
+"event_name" = "Nom de l'événement";
+"register" = "S'inscrire";
+"delete" = "Supprimer";
+
+// <!-- General Play -->
+"post_score_general_play" = "Inscrire le score de jeu général";
+"hole_by_hole" = "Trou par trou";
+"hole_by_hole_description" = "Saisir rapidement votre score trou par trou";
+"total_score" = "Score total";
+"total_score_description" = "Inscrire le score total ou les scores du premier et du deuxième neuf";
+"post_score_not_successful" = "Demande d'inscription de score refusée";
+"post_score_is_null" = "La réponse à l'inscription du score est nulle";
+"post_score_status_error" = "Erreur de statut d'inscription du score";
+"scores_posted" = "Vos scores sont enregistrés.";
+"incomplete_scorecard_alert" = "Vous êtes sur le point d'inscrire une carte de pointage incomplète. Veuillez confirmer.";
+"confirmation_alert" = "Vous êtes sur le point d'inscrire le score de votre ronde. Veuillez confirmer.";
+"check_in_time" = "Heure d'enregistrement";
+
+// <!-- Course Details -->
+"hole_by_hole_title" = "Saisir le score trou par trou";
+"course" = "Parcours";
+"holes_number" = "Nombre de trous";
+"tees" = "Jalons";
+"starting_hole" = "Trou de départ";
+"attester" = "Certificateur";
+"check_in_start_scoring" = "S'enregistrer et commencer la notation des scores";
+"nine_hole_tees_missing" = "[fr]There are no 9 hole tees that can be used for posting a 9 hole General Play";
+"eighteen_hole_tees_missing" = "[fr]There are no 18 hole tees that can be used for posting an 18 hole General Play";
+
+// <!-- Hole By Hole -->
+"ivHeaderRotate" = "Pivoter l'écran";
+"post_score" = "Inscrire un score";
+"post_score_no_connectivity" = "Vos scores ont été enregistrés dans notre système, mais en raison d'une erreur, ils n'ont pas été inscrits au WHS.";
+"update_supplemental_score_not_successful" = "Demande de mise à jour du score supplémentaire refusée";
+"update_supplemental_score_response_is_null" = "La réponse à la mise à jour du score supplémentaire est nulle";
+"update_supplemental_score_status_error" = "Erreur de statut de mise à jour du score supplémentaire";
+
+// <!-- Total Score -->
+"add_total_score" = "Saisir le score total";
+"front_nine" = "Premier 9";
+"back_nine" = "Deuxième 9";
+"total" = "Total";
+"total_score_hint" = "Numéro du type";
+"no_course_handicap" = "Pas de handicap de parcours";
+"posting_score" = "Inscription de votre score…";
+"post_total_score_request_not_successful" = "Demande d'inscription de score total refusée";
+"post_total_score_response_is_null" = "La réponse à l'inscription du score total est nulle";
+
+// <!-- Handicap Calculator -->
+"handicap_calculator" = "Calculateur de handicap";
+"eighteen_hole_handicap_index" = "I.H. pour 18-trous";
+"course_rating" = "Évaluation du parcours";
+"slope_rating" = "Évaluation Slope";
+"handicap_allowance" = "Allocation de handicap";
+"handicap_allowance_information" = "Le pourcentage d\'un handicap de parcours recommandé pour créer une équité entre tous les joueurs qui participent à un format de jeu précis.";
+"calculate =>Calculer" = "undefined";
+"note_handicap_calculator" = "Remarque: Pour déterminer le handicap de jeu pour un parcours de 9-trous, saisissez l'indice de handicap pour un parcours de 18-trous. Ensuite, saisissez l'évaluation pour un parcours de 9-trous, l'évaluation Slope pour un parcours de 9-trous et la normale pour un parcours de 9-trous avant de choisir Calculer. Un handicap de jeu pour un parcours de 9-trous sera calculé à partir de l'indice de handicap pour un parcours de 18-trous lorsque l'évaluation du parcours se situe entre 20.0 et 45.0.";
+"see_calculation" = "Voir le calcul";
+"handicap_index_invalid_number_alert" = "Vous devez saisir un chiffre valide pour l'indice de handicap";
+"handicap_index_decimal_alert" = "L'indice de handicap ne doit avoir qu'une seule décimale";
+"handicap_index_range_alert" = "L'indice de handicap doit se situer entre +9.9 et 54.0";
+"course_rating_invalid_alert" = "Vous devez saisir un chiffre valide pour l'évaluation du parcours";
+"course_rating_decimal_alert" = "L'évaluation du parcours ne doit avoir qu'une seule décimale";
+"course_rating_range_alert" = "L'évaluation du parcours doit se situer entre 20.0 et 45.0 pour un parcours de 9-trous et entre 45.1 et 90.0 pour un parcours de 18-trous";
+"slope_rating_range_alert" = "L'évaluation Slope doit se situer entre 55 et 155";
+"par_range_alert" = "La normale doit se situer entre 20 et 90";
+
+// <!-- Enter Scores -->
+"dashboard_exit_event" = "Quitter l'événement";
+
+// <!-- Pace of Play -->
+"group" = "Groupe";
+"checkpoint" = "Point de contrôle";
+"recorded_time" = "Durée enregistrée";
+"group_message" = "Message pour le groupe";
+"your_group_is_on_time" = "Votre groupe joue dans les délais!";
+"observations" = "Observations";
+"missed_checkpoints" = "Points de contrôle manqués";
+"expected" = "Prévu";
+"interval" = "Intervalle";
+"next_group" = "GROUPE SUIVANT";
+"checkpoint_summary" = "Résumé du point de contrôle";
+"clock" = "Horloge";
+"deadline" = "Échéance";
+"hours" = "heures";
+"minutes" = "minutes";
+"seconds" = "secondes";
+
+// <!--  DCP station  -->
+"drive" = "Coup de départ";
+"chip" = "Coup d'approche roulé";
+"putt" = "Coup roulé";
+"attempts" = "Tentatives";
+"points" = "Points";
+"skill" = "Compétence";
+"no_attempt" = "Aucune tentative";
+"twenty_five_yards_or_less" = "1 25 verges ou moins";
+"range_25_50" = "2 25 – 50 verges";
+"range_50_75" = "3 50 – 75 verges";
+"range_75_100" = "4 75 – 100 verges";
+"range_100_110" = "5 100 – 110 verges";
+"range_110_120" = "6 110 – 120 verges";
+"range_120_130" = "7 120 – 130 verges";
+"range_130_140" = "8 130 – 140 verges";
+"range_140_150" = "9 140 – 150 verges";
+"range_150_160" = "10 150 – 160 verges";
+"range_160_170" = "11 160 – 170 verges";
+"range_170_180" = "12 170 – 180 verges";
+"range_180_190" = "13 180 – 190 verges";
+"range_190_200" = "14 190 – 200 verges";
+"range_200_210" = "15 200 – 210 verges";
+"range_210_220" = "16 210 – 220 verges";
+"range_220_230" = "17 220 – 230 verges";
+"range_230_240" = "18 230 – 240 verges";
+"range_240_250" = "19 240 – 250 verges";
+"range_250_260" = "20 250 – 260 verges";
+"range_260_270" = "21 260 – 270 verges";
+"range_270_280" = "22 270 – 280 verges";
+"range_280_290" = "23 280 – 290 verges";
+"range_290_300" = "24 290 – 300 verges";
+"three_hundred_yards_or_more" = "25 300+ verges";
+"more_than_ten" = "1 Plus de 10'";
+"range_8_10" = "2 8' – 10'";
+"range_6_8" = "5 6' – 8'";
+"range_4_6" = "10 4' – 6'";
+"range_2_4" = "15 2' – 4'";
+"two_or_nearer" = "20 2' ou plus";
+"dcp_hole_in_one" = "25 Trou d'un coup";
+"more_than_five" = "1 Plus de 5'";
+"range_4_5" = "2 4' – 5'";
+"range_3_4" = "5 3' – 4'";
+"range_2_3" = "10 2' – 3'";
+"range_1_2" = "15 1' – 2'";
+"one_or_nearer" = "20 1' ou plus";
+
+// <!-- Golf Canada -->
+"app_name" = "Golf Canada TM";
+"timeout_message" = "Incapable d'établir la connexion avec Golf Canada TM.";
+"update_message" = "Une nouvelle version de l'appli Golf Canada TM est disponible sur Google Play. Est-ce que vous voulez la télécharger maintenant? La version qui se trouve actuellement sur votre téléphone fonctionne; vous pouvez donc la mettre à niveau maintenant ou plus tard.";
+"login_empty_all" = "Vous devez saisir votre compte Golf Canada TM ou votre GGID";
+"login_empty_pass_ggid" = "Vous devez saisir le mot de passe de votre compte Golf Canada TM";
+"login_empty_email_ggid" = "Vous devez saisir l'adresse de courriel de votre compte Golf Canada TM";

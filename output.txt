@@ -1,0 +1,1635 @@
+"app_name" = "Golf Genius";
+"timeout_title" = "Netwerkfout";
+"timeout_message" = "Kan geen verbinding maken met Golf Genius.";
+"retry" = "Opnieuw proberen";
+"quit" = "Stop";
+"update_title" = "Nieuwe versie beschikbaar!";
+"update_message" = "Een nieuwe versie van de Golf Genius app is beschikbaar op Google Play. Zou u het willen gebruiken? De versie die nu op uw telefoon staat werkt, dus u kunt nu of op een later tijdstip upgraden.";
+"update" = "Update";
+"later" = "Later";
+"login_error_title" = "Kan niet aanmelden";
+"ok" = "OK";
+"login_no_user" = "Geen gebruikersrecord gevonden voor deze e-mail. Registreer u op onze website of vraag een GGID aan bij uw beheerder.";
+"error_has_occurred" = "An error has occurred. Please try again.";
+"yes" = "Ja";
+"no" = "Nee";
+"select_photo_source" = "Selecteer fotobron";
+"take_photo" = "Foto nemen";
+"from_gallery" = "Van galerij";
+"tap_to_select_photo" = "Tik om een foto te selecteren om te uploaden";
+"change_your_photo" = "Tik om uw foto te veranderen";
+
+// <!-- Login -->
+"sign_in_using" = "LOG IN MET";
+"ggid" = "GGID";
+"or" = "of";
+"email_and_password" = "E-mail & wachtwoord";
+"email_address" = "E-mailadres";
+"password" = "Wachtwoord";
+"forgot_password" = "Uw wachtwoord vergeten?";
+"sign_in" = "Inloggen";
+"login_empty_all" = "U moet ofwel uw Golf Genius account of uw GGID invullen";
+"login_empty_pass_ggid" = "U moet het wachtwoord van uw Golf Genius-account invullen";
+"login_empty_email_ggid" = "U moet het e-mailadres van uw Golf Genius-account invullen";
+"login_empty_ggid" = "U moet uw GGID invullen";
+"login_empty_email_and_password" = "U moet uw Golf Genius-account invullen";
+"sign_in_loading" = "Inloggen. Wacht alstublieft…";
+"forgot_password_empty_email" = "Gelieve uw e-mailadres in te vullen in het e-mail-adresveld.";
+"hint_initials" = "Voer uw initialen in, bijv. MZ";
+"continue_text" = "Doorgaan";
+"ggid_empty" = "Voer uw initialen in";
+"dashboard_logout_title" = "Uitloggen";
+"leagues_title" = "Uw evenementen";
+"search" = "Zoeken";
+
+// <!-- Dashboard -->
+"dashboard_title" = "Dashboard";
+"loading" = "Laden…";
+"section_on_the_course" = "Op de baan";
+"dashboard_enter_scores_subtitle" = "Voer scores in voor uw groep";
+"dashboard_digital_scorecards_subtitle" = "Bekijk uw scores en notities";
+"dashboard_digital_scorecards_title" = "DIGITALE SCOREKAARTEN";
+"dashboard_marker_options_title" = "MARKERINGSOPTIES";
+"dashboard_marker_options_subtitle" = "Wijzigen wie u markeert";
+"dashboard_leaderboard_subtitle" = "Bekijk toernooien in uitvoering";
+"dashboard_upload_photo_subtitle" = "Uit galerij of neem foto";
+
+// <!-- DigitalScorecardsDescriptionActivity -->
+"you_are_the_marker_for" = "U bent de marker voor";
+"your_marker_is" = "Uw marker is";
+"hi" = "Hoi,";
+"welcome_to" = "Welkom bij";
+"date" = "Datum";
+"course_handicap" = "Baanhandicap";
+"playing_handicap" = "Speelhandicap";
+"confirm_and_continue" = "Bevestigen en doorgaan";
+
+// <!-- Digital Scorecards PlayerChoiceActivity -->
+"choose_the_players_you_want_to_mark" = "Kies de speler(s) die u wilt markeren";
+"maximum_number_of_markers" = "U heeft het maximum aantal markers bereikt.";
+
+// <!-- DigitalScorecardsEnterScoresActivity -->
+"players" = "Spelers";
+"markers_notes" = "Marker\&apos;s Notities";
+
+// <!-- EnterScoresScoringStationsActivityV2 -->
+"please_verify_the_scores" = "Verifieer de scores.";
+"once_saved" = "Zodra de scores zijn opgeslagen, wordt u doorgeschakeld naar de volgende speler.";
+"scores_correct_tap_on" = "Als de scores juist zijn, tikt u op";
+"once_saved_no_changes" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende speler en kunt u geen wijzigingen meer aanbrengen.";
+"scores_incorrect_tap_on" = "Als de scores onjuist zijn, tikt u op";
+"cancel" = "Annuleren";
+"to_adjust" = "om ze aan te passen.";
+"enter_foursome_number_or_last_name" = "Voer groepsnummer of achternaam in";
+
+// <!-- ScoringStationsDescriptionActivity -->
+"holes" = "Holes";
+
+// <!-- EnterScoresMatchPlayExtraHolesActivity -->
+"add_extra_hole" = "+ Extra hole toevoegen";
+"as" = "ALS";
+"won_by_default" = "Standaard gewonnen";
+"won" = "GEWONNEN";
+"match_play_once_the_scores_are_saved" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende hole. ";
+"match_play_once_the_scores_are_saved_no_more_changes" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende hole en kunt u geen wijzigingen meer aanbrengen. ";
+
+// <!-- ScoreReviewActivity -->
+"scorecards_incomplete_message" = "De scorekaarten zijn momenteel onvolledig, maar u kunt de scores van de markers en de spelers bekijken. Zodra de scores zijn beoordeeld, tikt u op "certificeer" om de scorekaart te ondertekenen.";
+"all_scores_are_entered" = "Alle scores zijn ingevoerd. Bekijk marker- en spelerscores en klik op score om te veranderen. Tik op "certificeer" om de scorekaart te ondertekenen.";
+"review_your_scores" = "Herzie uw scores. Vergelijk met de notities van uw marker en bevestig. Als u afwijkingen opmerkt, waarschuw dan uw marker.";
+"stroke_index_new_line" = "Slagindex";
+"stroke_index" = "Slagindex";
+"markers" = "Markers";
+"player_cannot_certify" = "Speler kan niet certificeren?";
+"click_here" = "Klik hier";
+"use_this_tool_to_cerfity" = "Gebruik dit instrument om de scores te certificeren in naam van";
+"certify_tip" = ". Zorg ervoor dat de speler de scores kan zien die hij op het punt staat te certificeren. Zodra de speler de scores heeft bekeken, kan hij je zijn speler GGID geven. Voer hier deze GGID in en tik op "Certificeren".";
+"scores_saved" = "Scores opgeslagen.";
+"keyboard_save" = "Opslaan |";
+"waiting_for_marker" = "Wachtend op marker…";
+"swipe_left_to_certify" = "Om uw scores te bevestigen, veeg naar links";
+"certify_another_player" = "Wilt u de scores van een andere speler certificeren? Klik hier";
+
+// <!-- PopUp -->
+"player_not_available_anymore" = "Sorry, deze speler is niet meer beschikbaar";
+"legend" = "Legenda:";
+"last_refresh" = "Laatste verversing op";
+"eagle_or_better" = "Eagle of beter";
+"birdie" = "Birdie";
+"bogey" = "Bogey";
+"double_bogey_or_worse" = "Double bogey of slechter";
+"conflict" = "Conflict";
+"cannot_add_scores" = "Kan geen scores toevoegen";
+"certify" = "Certificeren";
+"player_ggid" = "Speler-GGID";
+
+// <!-- EnterScoresActivityV2-->
+"loading_leaderboard" = "Leaderboard wordt geladen…";
+"file_chooser" = "Bestandskiezer";
+"file_browser" = "Bestandsbrowser";
+"flip_your_device" = "Draai uw toestel voor een beter zicht";
+
+// <!-- ScorecardActivity -->
+"loading_scorecard" = "Scorekaart laden…";
+"dashboard_enter_scores_title" = "Scores Invoeren";
+
+// <!-- WebViewActivity -->
+"edit_registration" = "Wijzig inschrijving";
+"add_to_waitlist" = "Toevoegen aan wachtlijst";
+"register_now" = "Registreer nu";
+"get_menu_sections" = "Menusecties krijgen";
+"tee_sheet" = "Tee-lijst";
+"image_chooser" = "Beeldkiezer";
+"other" = "Anders";
+"dashboard_scorecards_subtitle" = "Bekijk scorekaarten";
+"dashboard_tee_sheets_title" = "TEE SHEETS";
+"dashboard_tee_sheets_subtitle" = "Bekijk de koppelingen voor uw rondes";
+"dashboard_member_portal_subtitle" = "Bekijk het ledengedeelte";
+"dashboard_round_settings_subtitle" = "Ronde-voor-ronde instellingen & tv-weergave";
+"dashboard_logout_subtitle" = "Tot ziens!";
+"legal" = "Juridisch";
+"dashboard_terms_subtitle" = "Bekijk de Servicevoorwaarden";
+"dashboard_privacy_subtitle" = "Bekijk het privacybeleid";
+"select_devices" = "Apparaat of apparaten kiezen";
+"rounds_title" = "Ronden";
+"rounds_empty" = "Geen ronden gevonden. \nBreng beheerder op de hoogte.";
+"dashboard_terms_title" = "Servicevoorwaarden";
+"dashboard_privacy_title" = "Privacybeleid";
+"england_privacy_policy" = "England Golf Privacybeleid";
+"rules_of_golf" = "Golfregels";
+"sign_out" = "Uitschrijven";
+"dashboard_member_portal_title" = "Ledenportaal";
+"member_portal_empty" = "Het portaal is leeg";
+"albums_title" = "Albums";
+"albums_empty" = "Geen albums gevonden";
+
+// <!-- AlbumListActivity -->
+"album_list" = "Albumlijst";
+"dashboard_upload_photo_title" = "Foto Uploaden";
+"upload_photo_progress" = "Foto uploaden…";
+"upload_photo_failure" = "Kan uw foto niet uploaden";
+"upload_photo_success" = "Foto geüpload";
+"photo" = "Foto";
+"gallery" = "Galerij";
+"upload" = "UPLOAD";
+"loading_gallery" = "Galerij laden…";
+"no_photos_in_album" = "Er zijn geen foto\'s geupload in dit album";
+"dashboard_round_settings_title" = "Rondeinstellingen & Fire TV";
+"round_settings_real_time_mode_title" = "Mobiele Score Invoer";
+"round_launch_shows_title" = "Amazon Fire TV";
+"round_launch_shows_subtitle" = "Schakel tv-scherm naar Amazon Fire TV";
+"round_settings_real_time_mode_subtitle" = "Invoer mobiele score inschakelen / uitschakelen";
+"round_settings_tournaments_in_progress_title" = "Lopende toernooien";
+"round_settings_tournaments_in_progress_subtitle" = "Inschakelen / uitschakelen toernooien in uitvoering";
+"round_settings_teesheet_released_title" = "Koppelingen tonen in het Ledenportaal";
+"round_settings_teesheet_released_subtitle" = "Koppelingen tonen / verbergen in het Ledenportaal";
+"edit_round_settings_title_real_time_mode" = "Score-invoer";
+"edit_round_settings_title_teesheet_released" = "Toon / verberg tee-sheets";
+"refreshing" = "Vernieuwen…";
+"error_attempting_to_play" = "Fout bij poging tot afspelen";
+"edit_score_title" = "Scorend";
+"view_results" = "Bekijk resultaten";
+"select_hole" = "Selecteer hole";
+"hole" = "Hole";
+"help" = "Help";
+"undo" = "Ongedaan maken";
+"save" = "Opslaan";
+"quick_tip" = "Snelle Tip";
+"edit_score_help" = "Standaard worden de scores voor een hole niet genoteerd, en dit wordt aangegeven met een \"x\".  \n\nWanneer u op min of plus klikt, zal de score naar par gaan. U kunt dan op plus of min klikken om de score van een speler vast te leggen. \n\nAls een speler een hole niet afmaakt, druk dan op min totdat \"x\" verschijnt. \n\nSpelers met een rode \"x\" kunnen geen scores invoeren.";
+"dashboard_leaderboard_title" = "Leaderboard";
+"refresh" = "Vernieuwen";
+"pos" = "Pos";
+"name" = "Naam";
+"thru" = "Via";
+"to_par" = "Naar Par";
+"gross" = "Bruto";
+"net" = "Netto";
+"position" = "Positie";
+"edit" = "Bewerken";
+"scorecard_foursome" = "%1$s - Foursome %2$d";
+"par" = "Par";
+"handicap" = "Handicap";
+"no_pairings" = "Er zijn geen koppelingen gevonden voor deze ronde.\nInformeer de beheerder.";
+"no_rounds_alert" = "Geen ronden beschikbaar.";
+"clear_scores" = "Scores wissen";
+"are_you_sure" = "Weet je het zeker?";
+"edit_score_dialog_clear_msg" = "Weet u zeker dat u deze scores voor deze hole wilt wissen?";
+"no_foursomes" = "Er zijn geen foursome’s om scores voor in te voeren in deze ronde";
+"league_ggid_logged_in" = "U bent ingelogd met een GGID van een competitie of evenement. U kunt geen scores invoeren.";
+
+// <!-- LeagueListActivity -->
+"choose_an_event" = "Kies een gebeurtenis om";
+"get_started" = "AAN DE SLAG!";
+"enter_your_events_name" = "Voer de naam van uw evenement in";
+"tap_your_name_to_get_started" = "TIK OP UW NAAM OM TE BEGINNEN!";
+
+// <!-- RoundListActivity -->
+"select_round" = "Selecteer ronde";
+"scoring_stations_title" = "Scoorstations";
+"score_verification_title" = "Scoreverificatie";
+"league_name" = "Competitienaam";
+"round_date" = "Rondedatum";
+"course_name" = "Baannaam";
+"scoring_station" = "Scoorstation";
+"value" = "Waarde";
+"scoring_stations_not_enabled_message" = "Mobiel scorekaart is niet ingeschakeld. Breng uw beheerder op de hoogte.";
+"previous" = "< Vorige";
+"scoring_stations_next" = "Volgende > ";
+"player_name" = "Naam speler";
+"verify_scores" = "Scores verifiëren";
+"scoring_stations_log_out_arrow_unicode" = ""\uf0a8"";
+"scoring_stations_back_arrow_unicode" = ""\uf060"";
+"hamburger_icon" = ""\uf0c9"";
+"calendar_unicode" = ""\uf073"";
+"choose_who_you_mark" = "U kunt op het volgende scherm de spelers kiezen die u wilt markeren.";
+"digital_scorecard_tooltip_message" = "De scores zijn ingediend\n en wachten op de certificering\n door de speler. U kunt wijzigingen aanbrengen\n en opnieuw certificeren voordat\n de speler zelf de scores\n certificeert. Indien de\n speler de scores niet zelf kan\n certificeren, toon hem dan de\n digitale scorekaart en certificeer\n in zijn naam met gebruikmaking\n van zijn persoonlijke speler GGID.";
+"certify_as_player" = "Certificeren als speler";
+"certify_as_marker" = "Certificeren als marker";
+"did_not_keep_scores" = "U heeft voor geen enkele speler scores bijgehouden";
+"submitted_scores" = "Ingediende Scores";
+"marker" = "Marker";
+"my_scores" = "Mijn\nScores";
+"extra_holes" = "Extra Holes";
+
+// <!-- FoursomeListScoringVerificationActivity -->
+"loading_pairing_groups" = "Koppelingsgroepen laden…";
+"results" = "Resultaten";
+"enter_pairing_group_number_of_last_name" = "Voer koppelingsgroepnummer of achternaam in";
+"pull_down_to_refresh" = "Veeg naar beneden om te vernieuwen…";
+"last_updated" = "Laatst bijgewerkt: ";
+"not_started" = "Niet gestart";
+"under_review" = "Wacht op toestemming";
+"incomplete" = "Incompleet";
+"current_date" = "Huidige datum";
+"name_here" = "Naam hier!";
+"next" = "volgende";
+"select_scorecard" = "Selecteer Scorekaart";
+
+// <!-- FoursomeListScoringStationsActivity-->
+"enter_group_number_or_last_name" = "Voer groepsnummer of achternaam in";
+
+// <!-- FoursomesActivity -->
+"loading_foursomes" = "Foursome\'s laden…";
+"no_holes_completed" = "Geen holes voltooid.";
+"all_holes_completed" = "Alle holes voltooid.";
+"partial" = "Gedeeltelijk";
+"hole_completed" = "Hole voltooid";
+"foursomes" = "Foursome\'s";
+
+// <!-- VerificationScreen -->
+"scores_verified_transition" = "Zodra de scores zijn geverifieerd, wordt u doorgeschakeld naar de volgende speler.";
+
+// <!-- CourseDetailsActivity -->
+"tee" = "Tee";
+"no_type" = "Geen type";
+"general_play_in_progress" = "Algemene speelronde aan de gang";
+"checking_you_in" = "Laden…";
+"no_handicap_index" = "U heeft geen Handicap Index ingesteld";
+"your_playing_handicap_is" = "Uw speelhandicap is";
+
+// <!-- EnterVerificationScoresActivity -->
+"scoring_regime_array_image_description" = "X";
+"iv_checked_player" = "Checked";
+"scores_in_yellow" = "Scores in geel komen niet overeen met de huidige score";
+"clear" = "Wis";
+"clear_all" = "Alles Wissen";
+"review" = "Beoordeling";
+"leave_verification_alert" = "U staat op het punt deze scorecontrolepagina te verlaten. Alle ingevoerde scores zullen verloren gaan. Weet u zeker dat u wilt doorgaan?";
+"verification_total_score" = "Verificatie Totaalscore";
+"total_score_verification" = "Verificatie Totaalscore";
+"yardage" = "Yardage";
+"stroke" = "Slag";
+"score" = "Score";
+"note" = "Opmerking";
+"notes" = "Opmerkingen";
+"verify" = "Verifiëren";
+"in" = "In";
+"out" = "Uit";
+"yds" = "yds";
+"meters" = "Meters";
+"meters_abbreviation" = "\u0020m";
+"clear_verification_scores_alert" = "Weet u zeker dat u deze verificatie-scores wilt wissen?";
+"leave_score_verification_alert" = "U staat op het punt de scorecontrolepagina te verlaten. Alle ingevoerde scores zullen verloren gaan. Weet u zeker dat u wilt doorgaan?";
+"previous_cumulative_score" = "Vorige Cumulatieve Score";
+"current_round_score" = "Ronde Score";
+"total_cumulative_score" = "Totale Cumulatieve Score";
+"save_scores" = "Scores opslaan";
+"clear_unsaved_scores_alert" = "U staat op het punt om de niet opgeslagen scores te wissen. Weet u zeker dat u wilt doorgaan?";
+"clear_scores_alert" = "Weet u zeker dat u deze scores wilt wissen? Alle niet-opgeslagen wijzigingen gaan verloren";
+"unsaved_scores_alert" = "U staat op het punt om de scores voor deze hole te wissen zonder op te slaan. Weet u zeker dat u wilt doorgaan?";
+"local_verification_scores_alert" = "Opmerking: de verificatiescores worden lokaal op deze telefoon opgeslagen en u kunt het verificatieproces later voortzetten. Deze scores worden niet weergegeven op het leaderboard. Bevestig alstublieft.";
+"certify_alert" = "Weet u zeker dat u wilt certificeren?";
+"end_of_match_alert" = "De wedstrijd is compleet. Wilt u doorgaan met het invoeren van scores?";
+"no_i_am_done" = "Nee, ik ben klaar!";
+"undo_changes" = "Wijzigingen ongedaan maken";
+"enter_scores_modify_scores" = "Doorgaan met het bewerken van scores";
+"enter_scores_view_scorecard" = "Scorekaart samenvatting";
+"enter_scores_unsaved_scores_alert" = "U staat op het punt om de niet opgeslagen wijzigingen ongedaan te maken. Weet u zeker dat u wilt doorgaan?";
+"enter_scores_leaving_alert" = "U staat op het punt deze score-invoerpagina te verlaten zonder de scores op te slaan. Weet u zeker dat u wilt doorgaan?";
+"no_mobile_apps_access" = "U hebt op dit moment geen toegang tot de mobiele app. Neem contact op met uw beheerder.";
+"firetv_searching" = "Zoeken naar Fire TV Sticks in uw wifi-netwerk.";
+"firetv_searching_alternative" = "Zorg ervoor dat u bent verbonden met hetzelfde wifi-netwerk als uw Fire TV Stick en dat uw Fire TV Stick is aangesloten op het stopcontact en de app Golf Genius TV Display uitvoert.";
+"weather_delay_default" = "[nl]Weather delay of 90 minutes expected.\nPlease return to the clubhouse.";
+"posting_no_connectivity" = "Your device is currently not connected to the Internet. Your request has been queued for transmission. You can continue with the next group.";
+"no_tee_time_alert" = "Please go to the Edit Pairings page and set the tee time for this round";
+"no_starting_hole_alert" = "Please go to the Edit Pairings page and set the starting holes for this round";
+"enter_scores_finish_alert" = "U bent klaar met het invoeren van scores voor deze ronde. Wilt u de scores wijzigen of de scorekaart blijven bekijken?";
+
+// <!-- EnterScoresSummary -->
+"dashboard_scorecards_title" = "Scorekaarten";
+"view_leaderboard" = "Bekijk Leaderboard";
+"back" = "Terug";
+"confirm_final_scores" = "Bevestig eindscores";
+"confirm_final_scores_alert" = "Weet je zeker dat je de scores als definitief wilt bevestigen?";
+
+// <!-- Golf Genius -->
+
+// <!-- SelectClubActivity -->
+"select_club" = "Selecteer uw huidige club";
+"confirm" = "Bevestig";
+"ivClubLogo" = "Clublogo";
+"tvClubName" = "Aberdeen Golf Club";
+"application_upgrade" = "Toepassing moet worden geüpgraded";
+"welcome" = "Welkom";
+
+// <!-- CdhNumberActivity -->
+"whs_membership_number_hint" = "Voer uw WHS-lidmaatschapsnummer in";
+"whs_membership_number" = "WHS-lidmaatschapsnummer";
+"done" = "Gereed";
+"skip_for_now" = "Sla voor nu over";
+
+// <!-- HomeActivity -->
+"ivUpButton" = "[nl]Up Button";
+"selected_club" = "Geselecteerde club";
+"user_name" = "Inlognaam";
+"handicap_index" = "Handicap Index";
+"general_play" = "Algemeen Spel";
+"upcoming_events" = "Komende Evenementen";
+"powered_by" = "mogelijk gemaakt door";
+"ivDescription" = "[nl]Golf Genius Logo";
+"home" = "Startpagina";
+"more" = "Meer";
+"no_email" = "Geen e-mail";
+"no_ggid_type" = "Geen ggid-type";
+"no_first_name" = "Geen voornaam";
+"no_last_name" = "Geen achternaam";
+"no_photo" = "Geen foto";
+"no_full_name" = "Geen volledige naam";
+"no_club_name" = "Geen clubnaam";
+"no_logo_url" = "Geen logo-URL";
+"no_club_registration_league_id" = "Geen clubregistratie competitie-id";
+"delete_supplemental_score_request_not_successful" = "Delete supplemental score request not successful";
+"delete_supplemental_score_request_is_null" = "Delete Supplemental score response is null";
+"delete_supplemental_score_status_error" = "Delete Supplemental score status error";
+"check_in" = "Check In";
+"not_on_tee_sheet" = "U staat nog niet op de tee-sheet voor deze ronde";
+"mobile_score_entry_disabled" = "Mobiele score-invoer uitgeschakeld";
+"check_in_request_not_successful" = "Check-In request not successful";
+"delete_round_confirmation_alert" = "Weet u zeker dat u dit tabblad wilt verwijderen?";
+"missing_whs_membership_number" = "Ontbrekend WHS Lidmaatschapsnummer";
+"missing_whs_uid" = "UID van WHS-lid ontbreekt.";
+"todays_events_request_not_successful" = "Todays Events request not successful";
+"todays_events_data_is_null" = "Todays Events data is null";
+"no_leagues_available" = "Geen competities beschikbaar";
+"handicap_request_not_successful" = "Handicap request not successful";
+"error_parsing_refresh_data" = "Error parsing refresh data";
+"handicap_data_is_null" = "Handicap data is null";
+"loading_courses" = "Laden van de banen…";
+"no_courses" = "De club heeft geen banen beschikbaar";
+"courses_request_not_successful" = "Courses request not successful";
+"course_data_is_null" = "Course data is null";
+"course_handicap_calculator" = "Baanhandicap Calculator";
+
+// <!-- MenuActivity -->
+"back_to_directory" = "Terug naar de directory";
+
+// <!-- BottomActionBarButtonsFragment -->
+"leave" = "Verlaat";
+"leave_confirmation_general_play_alert" = "U staat op het punt om de algemene spelscore-invoer te verlaten. De huidige score wordt opgeslagen, maar niet gepost. U kunt de scores later verder invoeren.";
+"no_events_today" = "Geen evenementen vandaag";
+"todays_event" = "Evenement van vandaag";
+"ivGolfPin" = "Golf Pin";
+"event_name" = "Naam evenement";
+"register" = "Registreren";
+"delete" = "Verwijder";
+
+// <!-- General Play -->
+"post_score_general_play" = "Post Score voor Algemeen Spel";
+"hole_by_hole" = "Hole-for-Hole";
+"hole_by_hole_description" = "Voer snel uw hole-per-hole score in";
+"total_score" = "Totaalscore";
+"total_score_description" = "Post totale score of Front-9 en Back-9 scores";
+"post_score_not_successful" = "Post score request not successful";
+"post_score_is_null" = ""Post score response is null";
+"post_score_status_error" = "Post score status error";
+"scores_posted" = "Uw scores zijn gepost";
+"incomplete_scorecard_alert" = "Je staat op het punt een onvolledige scorekaart te posten. Bevestig alstublieft.";
+"confirmation_alert" = "Je staat op het punt om je rondescore te posten. Bevestig alstublieft.";
+"check_in_time" = "Check-In tijd";
+
+// <!-- Course Details -->
+"hole_by_hole_title" = "Scores per hole toevoegen";
+"course" = "Baan";
+"holes_number" = "Aantal holes";
+"tees" = "Tees";
+"starting_hole" = "Start hole";
+"attester" = "Goedkeurder";
+"check_in_start_scoring" = "Check-In en startscore";
+"nine_hole_tees_missing" = "There are no 9 hole tees that can be used for posting a 9 hole General Play";
+"eighteen_hole_tees_missing" = "There are no 18 hole tees that can be used for posting an 18 hole General Play";
+
+// <!-- Hole By Hole -->
+"ivHeaderRotate" = "Scherm draaien";
+"post_score" = "Score posten";
+"post_score_no_connectivity" = "Uw scores zijn opgeslagen in ons systeem, maar door een fout zijn ze niet op WHS gepost";
+"update_supplemental_score_not_successful" = "Update supplemental score request not successful"";
+"update_supplemental_score_response_is_null" = "Update Supplemental score response is null";
+"update_supplemental_score_status_error" = "Update Supplemental score status error";
+
+// <!-- Total Score -->
+"add_total_score" = "Totaalscore toevoegen";
+"front_nine" = "Front 9";
+"back_nine" = "Back 9";
+"total" = "Totaal";
+"total_score_hint" = "Typenummer";
+"no_course_handicap" = "Geen baanhandica";
+"posting_score" = "Je score posten…";
+"post_total_score_request_not_successful" = "Post total score request not successful";
+"post_total_score_response_is_null" = "Post total score response is null";
+
+// <!-- Handicap Calculator -->
+"handicap_calculator" = "Handicap-Berekening";
+"eighteen_hole_handicap_index" = "18-Holes H.I.";
+"course_rating" = "Baan-rating";
+"slope_rating" = "Slope-rating";
+"handicap_allowance" = "Handicap toegestaan";
+"handicap_allowance_information" = "The percentage of a Course Handicap recommended to create equity for all players participating in a specific format of play.";
+"calculate" = "Bereken";
+"note_handicap_calculator" = "";
+"see_calculation" = "Zie berekening";
+"handicap_index_invalid_number_alert" = "U moet een geldig nummer invoeren voor de Handicap Index";
+"handicap_index_decimal_alert" = "Handicap Index moet maximaal één decimaal hebben";
+"handicap_index_range_alert" = "Handicap Index moet liggen tussen +9.9 en 54.0 ";
+"course_rating_invalid_alert" = "U moet een geldig nummer invoeren voor de Baan-rating";
+"course_rating_decimal_alert" = "Baan-rating mag maximaal één decimaal hebben";
+"course_rating_range_alert" = "De baan-rating moet tussen 20.0 en 45.0 liggen voor 9 holes en tussen 45.1 en 90.0 voor 18 holes";
+"slope_rating_range_alert" = "De slope-rating moet tussen 55 en 155 liggen";
+"par_range_alert" = "Par moet tussen 20 en 90 liggen";
+
+// <!-- Enter Scores -->
+"dashboard_exit_event" = "Evenement verlaten";
+
+// <!-- Pace of Play -->
+"group" = "Groep";
+"checkpoint" = "Controlepost";
+"recorded_time" = "Opgenomen tijd";
+"group_message" = "Bericht voor de groep";
+"your_group_is_on_time" = "Je groep is op tijd";
+"observations" = "Observaties";
+"missed_checkpoints" = "Gemiste controlepunten";
+"expected" = "Verwacht";
+"interval" = "Interval";
+"next_group" = "VOLGENDE GROEP";
+"checkpoint_summary" = "Overzicht van controlepunten";
+"clock" = "Klok";
+"deadline" = "Deadline";
+"hours" = "uur";
+"minutes" = "minuten";
+"seconds" = "seconden";
+
+// <!--  DCP station  -->
+"drive" = "Drive";
+"chip" = "Chip";
+"putt" = "Putt";
+"attempts" = "Pogingen";
+"points" = "Punten";
+"skill" = "Vaardigheid";
+"no_attempt" = "Geen poging";
+"twenty_five_yards_or_less" = "1 25 yards of minder";
+"range_25_50" = "2 25 – 50 yards";
+"range_50_75" = "3 50 – 75 yards";
+"range_75_100" = "4 75 – 100 yards";
+"range_100_110" = "5 100 – 110 yards";
+"range_110_120" = "6 110 – 120 yards";
+"range_120_130" = "7 120 – 130 yards";
+"range_130_140" = "8 130 – 140 yards";
+"range_140_150" = "9 140 – 150 yards";
+"range_150_160" = "10 150 – 160 yards";
+"range_160_170" = "11 160 – 170 yards";
+"range_170_180" = "12 170 – 180 yards";
+"range_180_190" = "13 180 – 190 yards";
+"range_190_200" = "14 190 – 200 yards";
+"range_200_210" = "15 200 – 210 yards";
+"range_210_220" = "16 210 – 220 yards";
+"range_220_230" = "17 220 – 230 yards";
+"range_230_240" = "18 230 – 240 yards";
+"range_240_250" = "19 240 – 250 yards";
+"range_250_260" = "20 250 – 260 yards";
+"range_260_270" = "21 260 – 270 yards";
+"range_270_280" = "22 270 – 280 yards";
+"range_280_290" = "23 280 – 290 yards";
+"range_290_300" = "24 290 – 300 yards";
+"three_hundred_yards_or_more" = "25 300+ yards";
+"more_than_ten" = "1 Meer dan 10'";
+"range_8_10" = "2 8' – 10'";
+"range_6_8" = "5 6' – 8'";
+"range_4_6" = "10 4' – 6'";
+"range_2_4" = "15 2' – 4'";
+"two_or_nearer" = "20 2' of dichterbij";
+"dcp_hole_in_one" = "25 Hole in One";
+"more_than_five" = "1 Meer dan 5'";
+"range_4_5" = "2 4' – 5'";
+"range_3_4" = "5 3' – 4'";
+"range_2_3" = "10 2' – 3'";
+"range_1_2" = "15 1' – 2'";
+"one_or_nearer" = "20 1' of dichterbij";
+"app_name" = "Golf Genius";
+"timeout_title" = "Netwerkfout";
+"timeout_message" = "Kan geen verbinding maken met Golf Genius.";
+"retry" = "Opnieuw proberen";
+"quit" = "Stop";
+"update_title" = "Nieuwe versie beschikbaar!";
+"update_message" = "Een nieuwe versie van de Golf Genius app is beschikbaar op Google Play. Zou u het willen gebruiken? De versie die nu op uw telefoon staat werkt, dus u kunt nu of op een later tijdstip upgraden.";
+"update" = "Update";
+"later" = "Later";
+"login_error_title" = "Kan niet aanmelden";
+"ok" = "OK";
+"login_no_user" = "Geen gebruikersrecord gevonden voor deze e-mail. Registreer u op onze website of vraag een GGID aan bij uw beheerder.";
+"error_has_occurred" = "An error has occurred. Please try again.";
+"yes" = "Ja";
+"no" = "Nee";
+"select_photo_source" = "Selecteer fotobron";
+"take_photo" = "Foto nemen";
+"from_gallery" = "Van galerij";
+"tap_to_select_photo" = "Tik om een foto te selecteren om te uploaden";
+"change_your_photo" = "Tik om uw foto te veranderen";
+
+// <!-- Login -->
+"sign_in_using" = "LOG IN MET";
+"ggid" = "GGID";
+"or" = "of";
+"email_and_password" = "E-mail & wachtwoord";
+"email_address" = "E-mailadres";
+"password" = "Wachtwoord";
+"forgot_password" = "Uw wachtwoord vergeten?";
+"sign_in" = "Inloggen";
+"login_empty_all" = "U moet ofwel uw Golf Genius account of uw GGID invullen";
+"login_empty_pass_ggid" = "U moet het wachtwoord van uw Golf Genius-account invullen";
+"login_empty_email_ggid" = "U moet het e-mailadres van uw Golf Genius-account invullen";
+"login_empty_ggid" = "U moet uw GGID invullen";
+"login_empty_email_and_password" = "U moet uw Golf Genius-account invullen";
+"sign_in_loading" = "Inloggen. Wacht alstublieft…";
+"forgot_password_empty_email" = "Gelieve uw e-mailadres in te vullen in het e-mail-adresveld.";
+"hint_initials" = "Voer uw initialen in, bijv. MZ";
+"continue_text" = "Doorgaan";
+"ggid_empty" = "Voer uw initialen in";
+"dashboard_logout_title" = "Uitloggen";
+"leagues_title" = "Uw evenementen";
+"search" = "Zoeken";
+
+// <!-- Dashboard -->
+"dashboard_title" = "Dashboard";
+"loading" = "Laden…";
+"section_on_the_course" = "Op de baan";
+"dashboard_enter_scores_subtitle" = "Voer scores in voor uw groep";
+"dashboard_digital_scorecards_subtitle" = "Bekijk uw scores en notities";
+"dashboard_digital_scorecards_title" = "DIGITALE SCOREKAARTEN";
+"dashboard_marker_options_title" = "MARKERINGSOPTIES";
+"dashboard_marker_options_subtitle" = "Wijzigen wie u markeert";
+"dashboard_leaderboard_subtitle" = "Bekijk toernooien in uitvoering";
+"dashboard_upload_photo_subtitle" = "Uit galerij of neem foto";
+
+// <!-- DigitalScorecardsDescriptionActivity -->
+"you_are_the_marker_for" = "U bent de marker voor";
+"your_marker_is" = "Uw marker is";
+"hi" = "Hoi,";
+"welcome_to" = "Welkom bij";
+"date" = "Datum";
+"course_handicap" = "Baanhandicap";
+"playing_handicap" = "Speelhandicap";
+"confirm_and_continue" = "Bevestigen en doorgaan";
+
+// <!-- Digital Scorecards PlayerChoiceActivity -->
+"choose_the_players_you_want_to_mark" = "Kies de speler(s) die u wilt markeren";
+"maximum_number_of_markers" = "U heeft het maximum aantal markers bereikt.";
+
+// <!-- DigitalScorecardsEnterScoresActivity -->
+"players" = "Spelers";
+"markers_notes" = "Marker\&apos;s Notities";
+
+// <!-- EnterScoresScoringStationsActivityV2 -->
+"please_verify_the_scores" = "Verifieer de scores.";
+"once_saved" = "Zodra de scores zijn opgeslagen, wordt u doorgeschakeld naar de volgende speler.";
+"scores_correct_tap_on" = "Als de scores juist zijn, tikt u op";
+"once_saved_no_changes" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende speler en kunt u geen wijzigingen meer aanbrengen.";
+"scores_incorrect_tap_on" = "Als de scores onjuist zijn, tikt u op";
+"cancel" = "Annuleren";
+"to_adjust" = "om ze aan te passen.";
+"enter_foursome_number_or_last_name" = "Voer groepsnummer of achternaam in";
+
+// <!-- ScoringStationsDescriptionActivity -->
+"holes" = "Holes";
+
+// <!-- EnterScoresMatchPlayExtraHolesActivity -->
+"add_extra_hole" = "+ Extra hole toevoegen";
+"as" = "ALS";
+"won_by_default" = "Standaard gewonnen";
+"won" = "GEWONNEN";
+"match_play_once_the_scores_are_saved" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende hole. ";
+"match_play_once_the_scores_are_saved_no_more_changes" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende hole en kunt u geen wijzigingen meer aanbrengen. ";
+
+// <!-- ScoreReviewActivity -->
+"scorecards_incomplete_message" = "De scorekaarten zijn momenteel onvolledig, maar u kunt de scores van de markers en de spelers bekijken. Zodra de scores zijn beoordeeld, tikt u op "certificeer" om de scorekaart te ondertekenen.";
+"all_scores_are_entered" = "Alle scores zijn ingevoerd. Bekijk marker- en spelerscores en klik op score om te veranderen. Tik op "certificeer" om de scorekaart te ondertekenen.";
+"review_your_scores" = "Herzie uw scores. Vergelijk met de notities van uw marker en bevestig. Als u afwijkingen opmerkt, waarschuw dan uw marker.";
+"stroke_index_new_line" = "Slagindex";
+"stroke_index" = "Slagindex";
+"markers" = "Markers";
+"player_cannot_certify" = "Speler kan niet certificeren?";
+"click_here" = "Klik hier";
+"use_this_tool_to_cerfity" = "Gebruik dit instrument om de scores te certificeren in naam van";
+"certify_tip" = ". Zorg ervoor dat de speler de scores kan zien die hij op het punt staat te certificeren. Zodra de speler de scores heeft bekeken, kan hij je zijn speler GGID geven. Voer hier deze GGID in en tik op "Certificeren".";
+"scores_saved" = "Scores opgeslagen.";
+"keyboard_save" = "Opslaan |";
+"waiting_for_marker" = "Wachtend op marker…";
+"swipe_left_to_certify" = "Om uw scores te bevestigen, veeg naar links";
+"certify_another_player" = "Wilt u de scores van een andere speler certificeren? Klik hier";
+
+// <!-- PopUp -->
+"player_not_available_anymore" = "Sorry, deze speler is niet meer beschikbaar";
+"legend" = "Legenda:";
+"last_refresh" = "Laatste verversing op";
+"eagle_or_better" = "Eagle of beter";
+"birdie" = "Birdie";
+"bogey" = "Bogey";
+"double_bogey_or_worse" = "Double bogey of slechter";
+"conflict" = "Conflict";
+"cannot_add_scores" = "Kan geen scores toevoegen";
+"certify" = "Certificeren";
+"player_ggid" = "Speler-GGID";
+
+// <!-- EnterScoresActivityV2-->
+"loading_leaderboard" = "Leaderboard wordt geladen…";
+"file_chooser" = "Bestandskiezer";
+"file_browser" = "Bestandsbrowser";
+"flip_your_device" = "Draai uw toestel voor een beter zicht";
+
+// <!-- ScorecardActivity -->
+"loading_scorecard" = "Scorekaart laden…";
+"dashboard_enter_scores_title" = "Scores Invoeren";
+
+// <!-- WebViewActivity -->
+"edit_registration" = "Wijzig inschrijving";
+"add_to_waitlist" = "Toevoegen aan wachtlijst";
+"register_now" = "Registreer nu";
+"get_menu_sections" = "Menusecties krijgen";
+"tee_sheet" = "Tee-lijst";
+"image_chooser" = "Beeldkiezer";
+"other" = "Anders";
+"dashboard_scorecards_subtitle" = "Bekijk scorekaarten";
+"dashboard_tee_sheets_title" = "TEE SHEETS";
+"dashboard_tee_sheets_subtitle" = "Bekijk de koppelingen voor uw rondes";
+"dashboard_member_portal_subtitle" = "Bekijk het ledengedeelte";
+"dashboard_round_settings_subtitle" = "Ronde-voor-ronde instellingen & tv-weergave";
+"dashboard_logout_subtitle" = "Tot ziens!";
+"legal" = "Juridisch";
+"dashboard_terms_subtitle" = "Bekijk de Servicevoorwaarden";
+"dashboard_privacy_subtitle" = "Bekijk het privacybeleid";
+"select_devices" = "Apparaat of apparaten kiezen";
+"rounds_title" = "Ronden";
+"rounds_empty" = "Geen ronden gevonden. \nBreng beheerder op de hoogte.";
+"dashboard_terms_title" = "Servicevoorwaarden";
+"dashboard_privacy_title" = "Privacybeleid";
+"england_privacy_policy" = "England Golf Privacybeleid";
+"rules_of_golf" = "Golfregels";
+"sign_out" = "Uitschrijven";
+"dashboard_member_portal_title" = "Ledenportaal";
+"member_portal_empty" = "Het portaal is leeg";
+"albums_title" = "Albums";
+"albums_empty" = "Geen albums gevonden";
+
+// <!-- AlbumListActivity -->
+"album_list" = "Albumlijst";
+"dashboard_upload_photo_title" = "Foto Uploaden";
+"upload_photo_progress" = "Foto uploaden…";
+"upload_photo_failure" = "Kan uw foto niet uploaden";
+"upload_photo_success" = "Foto geüpload";
+"photo" = "Foto";
+"gallery" = "Galerij";
+"upload" = "UPLOAD";
+"loading_gallery" = "Galerij laden…";
+"no_photos_in_album" = "Er zijn geen foto\'s geupload in dit album";
+"dashboard_round_settings_title" = "Rondeinstellingen & Fire TV";
+"round_settings_real_time_mode_title" = "Mobiele Score Invoer";
+"round_launch_shows_title" = "Amazon Fire TV";
+"round_launch_shows_subtitle" = "Schakel tv-scherm naar Amazon Fire TV";
+"round_settings_real_time_mode_subtitle" = "Invoer mobiele score inschakelen / uitschakelen";
+"round_settings_tournaments_in_progress_title" = "Lopende toernooien";
+"round_settings_tournaments_in_progress_subtitle" = "Inschakelen / uitschakelen toernooien in uitvoering";
+"round_settings_teesheet_released_title" = "Koppelingen tonen in het Ledenportaal";
+"round_settings_teesheet_released_subtitle" = "Koppelingen tonen / verbergen in het Ledenportaal";
+"edit_round_settings_title_real_time_mode" = "Score-invoer";
+"edit_round_settings_title_teesheet_released" = "Toon / verberg tee-sheets";
+"refreshing" = "Vernieuwen…";
+"error_attempting_to_play" = "Fout bij poging tot afspelen";
+"edit_score_title" = "Scorend";
+"view_results" = "Bekijk resultaten";
+"select_hole" = "Selecteer hole";
+"hole" = "Hole";
+"help" = "Help";
+"undo" = "Ongedaan maken";
+"save" = "Opslaan";
+"quick_tip" = "Snelle Tip";
+"edit_score_help" = "Standaard worden de scores voor een hole niet genoteerd, en dit wordt aangegeven met een \"x\".  \n\nWanneer u op min of plus klikt, zal de score naar par gaan. U kunt dan op plus of min klikken om de score van een speler vast te leggen. \n\nAls een speler een hole niet afmaakt, druk dan op min totdat \"x\" verschijnt. \n\nSpelers met een rode \"x\" kunnen geen scores invoeren.";
+"dashboard_leaderboard_title" = "Leaderboard";
+"refresh" = "Vernieuwen";
+"pos" = "Pos";
+"name" = "Naam";
+"thru" = "Via";
+"to_par" = "Naar Par";
+"gross" = "Bruto";
+"net" = "Netto";
+"position" = "Positie";
+"edit" = "Bewerken";
+"scorecard_foursome" = "%1$s - Foursome %2$d";
+"par" = "Par";
+"handicap" = "Handicap";
+"no_pairings" = "Er zijn geen koppelingen gevonden voor deze ronde.\nInformeer de beheerder.";
+"no_rounds_alert" = "Geen ronden beschikbaar.";
+"clear_scores" = "Scores wissen";
+"are_you_sure" = "Weet je het zeker?";
+"edit_score_dialog_clear_msg" = "Weet u zeker dat u deze scores voor deze hole wilt wissen?";
+"no_foursomes" = "Er zijn geen foursome’s om scores voor in te voeren in deze ronde";
+"league_ggid_logged_in" = "U bent ingelogd met een GGID van een competitie of evenement. U kunt geen scores invoeren.";
+
+// <!-- LeagueListActivity -->
+"choose_an_event" = "Kies een gebeurtenis om";
+"get_started" = "AAN DE SLAG!";
+"enter_your_events_name" = "Voer de naam van uw evenement in";
+"tap_your_name_to_get_started" = "TIK OP UW NAAM OM TE BEGINNEN!";
+
+// <!-- RoundListActivity -->
+"select_round" = "Selecteer ronde";
+"scoring_stations_title" = "Scoorstations";
+"score_verification_title" = "Scoreverificatie";
+"league_name" = "Competitienaam";
+"round_date" = "Rondedatum";
+"course_name" = "Baannaam";
+"scoring_station" = "Scoorstation";
+"value" = "Waarde";
+"scoring_stations_not_enabled_message" = "Mobiel scorekaart is niet ingeschakeld. Breng uw beheerder op de hoogte.";
+"previous" = "< Vorige";
+"scoring_stations_next" = "Volgende > ";
+"player_name" = "Naam speler";
+"verify_scores" = "Scores verifiëren";
+"scoring_stations_log_out_arrow_unicode" = ""\uf0a8"";
+"scoring_stations_back_arrow_unicode" = ""\uf060"";
+"hamburger_icon" = ""\uf0c9"";
+"calendar_unicode" = ""\uf073"";
+"choose_who_you_mark" = "U kunt op het volgende scherm de spelers kiezen die u wilt markeren.";
+"digital_scorecard_tooltip_message" = "De scores zijn ingediend\n en wachten op de certificering\n door de speler. U kunt wijzigingen aanbrengen\n en opnieuw certificeren voordat\n de speler zelf de scores\n certificeert. Indien de\n speler de scores niet zelf kan\n certificeren, toon hem dan de\n digitale scorekaart en certificeer\n in zijn naam met gebruikmaking\n van zijn persoonlijke speler GGID.";
+"certify_as_player" = "Certificeren als speler";
+"certify_as_marker" = "Certificeren als marker";
+"did_not_keep_scores" = "U heeft voor geen enkele speler scores bijgehouden";
+"submitted_scores" = "Ingediende Scores";
+"marker" = "Marker";
+"my_scores" = "Mijn\nScores";
+"extra_holes" = "Extra Holes";
+
+// <!-- FoursomeListScoringVerificationActivity -->
+"loading_pairing_groups" = "Koppelingsgroepen laden…";
+"results" = "Resultaten";
+"enter_pairing_group_number_of_last_name" = "Voer koppelingsgroepnummer of achternaam in";
+"pull_down_to_refresh" = "Veeg naar beneden om te vernieuwen…";
+"last_updated" = "Laatst bijgewerkt: ";
+"not_started" = "Niet gestart";
+"under_review" = "Wacht op toestemming";
+"incomplete" = "Incompleet";
+"current_date" = "Huidige datum";
+"name_here" = "Naam hier!";
+"next" = "volgende";
+"select_scorecard" = "Selecteer Scorekaart";
+
+// <!-- FoursomeListScoringStationsActivity-->
+"enter_group_number_or_last_name" = "Voer groepsnummer of achternaam in";
+
+// <!-- FoursomesActivity -->
+"loading_foursomes" = "Foursome\'s laden…";
+"no_holes_completed" = "Geen holes voltooid.";
+"all_holes_completed" = "Alle holes voltooid.";
+"partial" = "Gedeeltelijk";
+"hole_completed" = "Hole voltooid";
+"foursomes" = "Foursome\'s";
+
+// <!-- VerificationScreen -->
+"scores_verified_transition" = "Zodra de scores zijn geverifieerd, wordt u doorgeschakeld naar de volgende speler.";
+
+// <!-- CourseDetailsActivity -->
+"tee" = "Tee";
+"no_type" = "Geen type";
+"general_play_in_progress" = "Algemene speelronde aan de gang";
+"checking_you_in" = "Laden…";
+"no_handicap_index" = "U heeft geen Handicap Index ingesteld";
+"your_playing_handicap_is" = "Uw speelhandicap is";
+
+// <!-- EnterVerificationScoresActivity -->
+"scoring_regime_array_image_description" = "X";
+"iv_checked_player" = "Checked";
+"scores_in_yellow" = "Scores in geel komen niet overeen met de huidige score";
+"clear" = "Wis";
+"clear_all" = "Alles Wissen";
+"review" = "Beoordeling";
+"leave_verification_alert" = "U staat op het punt deze scorecontrolepagina te verlaten. Alle ingevoerde scores zullen verloren gaan. Weet u zeker dat u wilt doorgaan?";
+"verification_total_score" = "Verificatie Totaalscore";
+"total_score_verification" = "Verificatie Totaalscore";
+"yardage" = "Yardage";
+"stroke" = "Slag";
+"score" = "Score";
+"note" = "Opmerking";
+"notes" = "Opmerkingen";
+"verify" = "Verifiëren";
+"in" = "In";
+"out" = "Uit";
+"yds" = "yds";
+"meters" = "Meters";
+"meters_abbreviation" = "\u0020m";
+"clear_verification_scores_alert" = "Weet u zeker dat u deze verificatie-scores wilt wissen?";
+"leave_score_verification_alert" = "U staat op het punt de scorecontrolepagina te verlaten. Alle ingevoerde scores zullen verloren gaan. Weet u zeker dat u wilt doorgaan?";
+"previous_cumulative_score" = "Vorige Cumulatieve Score";
+"current_round_score" = "Ronde Score";
+"total_cumulative_score" = "Totale Cumulatieve Score";
+"save_scores" = "Scores opslaan";
+"clear_unsaved_scores_alert" = "U staat op het punt om de niet opgeslagen scores te wissen. Weet u zeker dat u wilt doorgaan?";
+"clear_scores_alert" = "Weet u zeker dat u deze scores wilt wissen? Alle niet-opgeslagen wijzigingen gaan verloren";
+"unsaved_scores_alert" = "U staat op het punt om de scores voor deze hole te wissen zonder op te slaan. Weet u zeker dat u wilt doorgaan?";
+"local_verification_scores_alert" = "Opmerking: de verificatiescores worden lokaal op deze telefoon opgeslagen en u kunt het verificatieproces later voortzetten. Deze scores worden niet weergegeven op het leaderboard. Bevestig alstublieft.";
+"certify_alert" = "Weet u zeker dat u wilt certificeren?";
+"end_of_match_alert" = "De wedstrijd is compleet. Wilt u doorgaan met het invoeren van scores?";
+"no_i_am_done" = "Nee, ik ben klaar!";
+"undo_changes" = "Wijzigingen ongedaan maken";
+"enter_scores_modify_scores" = "Doorgaan met het bewerken van scores";
+"enter_scores_view_scorecard" = "Scorekaart samenvatting";
+"enter_scores_unsaved_scores_alert" = "U staat op het punt om de niet opgeslagen wijzigingen ongedaan te maken. Weet u zeker dat u wilt doorgaan?";
+"enter_scores_leaving_alert" = "U staat op het punt deze score-invoerpagina te verlaten zonder de scores op te slaan. Weet u zeker dat u wilt doorgaan?";
+"no_mobile_apps_access" = "U hebt op dit moment geen toegang tot de mobiele app. Neem contact op met uw beheerder.";
+"firetv_searching" = "Zoeken naar Fire TV Sticks in uw wifi-netwerk.";
+"firetv_searching_alternative" = "Zorg ervoor dat u bent verbonden met hetzelfde wifi-netwerk als uw Fire TV Stick en dat uw Fire TV Stick is aangesloten op het stopcontact en de app Golf Genius TV Display uitvoert.";
+"weather_delay_default" = "[nl]Weather delay of 90 minutes expected.\nPlease return to the clubhouse.";
+"posting_no_connectivity" = "Your device is currently not connected to the Internet. Your request has been queued for transmission. You can continue with the next group.";
+"no_tee_time_alert" = "Please go to the Edit Pairings page and set the tee time for this round";
+"no_starting_hole_alert" = "Please go to the Edit Pairings page and set the starting holes for this round";
+"enter_scores_finish_alert" = "U bent klaar met het invoeren van scores voor deze ronde. Wilt u de scores wijzigen of de scorekaart blijven bekijken?";
+
+// <!-- EnterScoresSummary -->
+"dashboard_scorecards_title" = "Scorekaarten";
+"view_leaderboard" = "Bekijk Leaderboard";
+"back" = "Terug";
+"confirm_final_scores" = "Bevestig eindscores";
+"confirm_final_scores_alert" = "Weet je zeker dat je de scores als definitief wilt bevestigen?";
+
+// <!-- Golf Genius -->
+
+// <!-- SelectClubActivity -->
+"select_club" = "Selecteer uw huidige club";
+"confirm" = "Bevestig";
+"ivClubLogo" = "Clublogo";
+"tvClubName" = "Aberdeen Golf Club";
+"application_upgrade" = "Toepassing moet worden geüpgraded";
+"welcome" = "Welkom";
+
+// <!-- CdhNumberActivity -->
+"whs_membership_number_hint" = "Voer uw WHS-lidmaatschapsnummer in";
+"whs_membership_number" = "WHS-lidmaatschapsnummer";
+"done" = "Gereed";
+"skip_for_now" = "Sla voor nu over";
+
+// <!-- HomeActivity -->
+"ivUpButton" = "[nl]Up Button";
+"selected_club" = "Geselecteerde club";
+"user_name" = "Inlognaam";
+"handicap_index" = "Handicap Index";
+"general_play" = "Algemeen Spel";
+"upcoming_events" = "Komende Evenementen";
+"powered_by" = "mogelijk gemaakt door";
+"ivDescription" = "[nl]Golf Genius Logo";
+"home" = "Startpagina";
+"more" = "Meer";
+"no_email" = "Geen e-mail";
+"no_ggid_type" = "Geen ggid-type";
+"no_first_name" = "Geen voornaam";
+"no_last_name" = "Geen achternaam";
+"no_photo" = "Geen foto";
+"no_full_name" = "Geen volledige naam";
+"no_club_name" = "Geen clubnaam";
+"no_logo_url" = "Geen logo-URL";
+"no_club_registration_league_id" = "Geen clubregistratie competitie-id";
+"delete_supplemental_score_request_not_successful" = "Delete supplemental score request not successful";
+"delete_supplemental_score_request_is_null" = "Delete Supplemental score response is null";
+"delete_supplemental_score_status_error" = "Delete Supplemental score status error";
+"check_in" = "Check In";
+"not_on_tee_sheet" = "U staat nog niet op de tee-sheet voor deze ronde";
+"mobile_score_entry_disabled" = "Mobiele score-invoer uitgeschakeld";
+"check_in_request_not_successful" = "Check-In request not successful";
+"delete_round_confirmation_alert" = "Weet u zeker dat u dit tabblad wilt verwijderen?";
+"missing_whs_membership_number" = "Ontbrekend WHS Lidmaatschapsnummer";
+"missing_whs_uid" = "UID van WHS-lid ontbreekt.";
+"todays_events_request_not_successful" = "Todays Events request not successful";
+"todays_events_data_is_null" = "Todays Events data is null";
+"no_leagues_available" = "Geen competities beschikbaar";
+"handicap_request_not_successful" = "Handicap request not successful";
+"error_parsing_refresh_data" = "Error parsing refresh data";
+"handicap_data_is_null" = "Handicap data is null";
+"loading_courses" = "Laden van de banen…";
+"no_courses" = "De club heeft geen banen beschikbaar";
+"courses_request_not_successful" = "Courses request not successful";
+"course_data_is_null" = "Course data is null";
+"course_handicap_calculator" = "Baanhandicap Calculator";
+
+// <!-- MenuActivity -->
+"back_to_directory" = "Terug naar de directory";
+
+// <!-- BottomActionBarButtonsFragment -->
+"leave" = "Verlaat";
+"leave_confirmation_general_play_alert" = "U staat op het punt om de algemene spelscore-invoer te verlaten. De huidige score wordt opgeslagen, maar niet gepost. U kunt de scores later verder invoeren.";
+"no_events_today" = "Geen evenementen vandaag";
+"todays_event" = "Evenement van vandaag";
+"ivGolfPin" = "Golf Pin";
+"event_name" = "Naam evenement";
+"register" = "Registreren";
+"delete" = "Verwijder";
+
+// <!-- General Play -->
+"post_score_general_play" = "Post Score voor Algemeen Spel";
+"hole_by_hole" = "Hole-for-Hole";
+"hole_by_hole_description" = "Voer snel uw hole-per-hole score in";
+"total_score" = "Totaalscore";
+"total_score_description" = "Post totale score of Front-9 en Back-9 scores";
+"post_score_not_successful" = "Post score request not successful";
+"post_score_is_null" = ""Post score response is null";
+"post_score_status_error" = "Post score status error";
+"scores_posted" = "Uw scores zijn gepost";
+"incomplete_scorecard_alert" = "Je staat op het punt een onvolledige scorekaart te posten. Bevestig alstublieft.";
+"confirmation_alert" = "Je staat op het punt om je rondescore te posten. Bevestig alstublieft.";
+"check_in_time" = "Check-In tijd";
+
+// <!-- Course Details -->
+"hole_by_hole_title" = "Scores per hole toevoegen";
+"course" = "Baan";
+"holes_number" = "Aantal holes";
+"tees" = "Tees";
+"starting_hole" = "Start hole";
+"attester" = "Goedkeurder";
+"check_in_start_scoring" = "Check-In en startscore";
+"nine_hole_tees_missing" = "There are no 9 hole tees that can be used for posting a 9 hole General Play";
+"eighteen_hole_tees_missing" = "There are no 18 hole tees that can be used for posting an 18 hole General Play";
+
+// <!-- Hole By Hole -->
+"ivHeaderRotate" = "Scherm draaien";
+"post_score" = "Score posten";
+"post_score_no_connectivity" = "Uw scores zijn opgeslagen in ons systeem, maar door een fout zijn ze niet op WHS gepost";
+"update_supplemental_score_not_successful" = "Update supplemental score request not successful"";
+"update_supplemental_score_response_is_null" = "Update Supplemental score response is null";
+"update_supplemental_score_status_error" = "Update Supplemental score status error";
+
+// <!-- Total Score -->
+"add_total_score" = "Totaalscore toevoegen";
+"front_nine" = "Front 9";
+"back_nine" = "Back 9";
+"total" = "Totaal";
+"total_score_hint" = "Typenummer";
+"no_course_handicap" = "Geen baanhandica";
+"posting_score" = "Je score posten…";
+"post_total_score_request_not_successful" = "Post total score request not successful";
+"post_total_score_response_is_null" = "Post total score response is null";
+
+// <!-- Handicap Calculator -->
+"handicap_calculator" = "Handicap-Berekening";
+"eighteen_hole_handicap_index" = "18-Holes H.I.";
+"course_rating" = "Baan-rating";
+"slope_rating" = "Slope-rating";
+"handicap_allowance" = "Handicap toegestaan";
+"handicap_allowance_information" = "The percentage of a Course Handicap recommended to create equity for all players participating in a specific format of play.";
+"calculate" = "Bereken";
+"note_handicap_calculator" = "";
+"see_calculation" = "Zie berekening";
+"handicap_index_invalid_number_alert" = "U moet een geldig nummer invoeren voor de Handicap Index";
+"handicap_index_decimal_alert" = "Handicap Index moet maximaal één decimaal hebben";
+"handicap_index_range_alert" = "Handicap Index moet liggen tussen +9.9 en 54.0 ";
+"course_rating_invalid_alert" = "U moet een geldig nummer invoeren voor de Baan-rating";
+"course_rating_decimal_alert" = "Baan-rating mag maximaal één decimaal hebben";
+"course_rating_range_alert" = "De baan-rating moet tussen 20.0 en 45.0 liggen voor 9 holes en tussen 45.1 en 90.0 voor 18 holes";
+"slope_rating_range_alert" = "De slope-rating moet tussen 55 en 155 liggen";
+"par_range_alert" = "Par moet tussen 20 en 90 liggen";
+
+// <!-- Enter Scores -->
+"dashboard_exit_event" = "Evenement verlaten";
+
+// <!-- Pace of Play -->
+"group" = "Groep";
+"checkpoint" = "Controlepost";
+"recorded_time" = "Opgenomen tijd";
+"group_message" = "Bericht voor de groep";
+"your_group_is_on_time" = "Je groep is op tijd";
+"observations" = "Observaties";
+"missed_checkpoints" = "Gemiste controlepunten";
+"expected" = "Verwacht";
+"interval" = "Interval";
+"next_group" = "VOLGENDE GROEP";
+"checkpoint_summary" = "Overzicht van controlepunten";
+"clock" = "Klok";
+"deadline" = "Deadline";
+"hours" = "uur";
+"minutes" = "minuten";
+"seconds" = "seconden";
+
+// <!--  DCP station  -->
+"drive" = "Drive";
+"chip" = "Chip";
+"putt" = "Putt";
+"attempts" = "Pogingen";
+"points" = "Punten";
+"skill" = "Vaardigheid";
+"no_attempt" = "Geen poging";
+"twenty_five_yards_or_less" = "1 25 yards of minder";
+"range_25_50" = "2 25 – 50 yards";
+"range_50_75" = "3 50 – 75 yards";
+"range_75_100" = "4 75 – 100 yards";
+"range_100_110" = "5 100 – 110 yards";
+"range_110_120" = "6 110 – 120 yards";
+"range_120_130" = "7 120 – 130 yards";
+"range_130_140" = "8 130 – 140 yards";
+"range_140_150" = "9 140 – 150 yards";
+"range_150_160" = "10 150 – 160 yards";
+"range_160_170" = "11 160 – 170 yards";
+"range_170_180" = "12 170 – 180 yards";
+"range_180_190" = "13 180 – 190 yards";
+"range_190_200" = "14 190 – 200 yards";
+"range_200_210" = "15 200 – 210 yards";
+"range_210_220" = "16 210 – 220 yards";
+"range_220_230" = "17 220 – 230 yards";
+"range_230_240" = "18 230 – 240 yards";
+"range_240_250" = "19 240 – 250 yards";
+"range_250_260" = "20 250 – 260 yards";
+"range_260_270" = "21 260 – 270 yards";
+"range_270_280" = "22 270 – 280 yards";
+"range_280_290" = "23 280 – 290 yards";
+"range_290_300" = "24 290 – 300 yards";
+"three_hundred_yards_or_more" = "25 300+ yards";
+"more_than_ten" = "1 Meer dan 10'";
+"range_8_10" = "2 8' – 10'";
+"range_6_8" = "5 6' – 8'";
+"range_4_6" = "10 4' – 6'";
+"range_2_4" = "15 2' – 4'";
+"two_or_nearer" = "20 2' of dichterbij";
+"dcp_hole_in_one" = "25 Hole in One";
+"more_than_five" = "1 Meer dan 5'";
+"range_4_5" = "2 4' – 5'";
+"range_3_4" = "5 3' – 4'";
+"range_2_3" = "10 2' – 3'";
+"range_1_2" = "15 1' – 2'";
+"one_or_nearer" = "20 1' of dichterbij";
+"app_name" = "Golf Genius";
+"timeout_title" = "Netwerkfout";
+"timeout_message" = "Kan geen verbinding maken met Golf Genius.";
+"retry" = "Opnieuw proberen";
+"quit" = "Stop";
+"update_title" = "Nieuwe versie beschikbaar!";
+"update_message" = "Een nieuwe versie van de Golf Genius app is beschikbaar op Google Play. Zou u het willen gebruiken? De versie die nu op uw telefoon staat werkt, dus u kunt nu of op een later tijdstip upgraden.";
+"update" = "Update";
+"later" = "Later";
+"login_error_title" = "Kan niet aanmelden";
+"ok" = "OK";
+"login_no_user" = "Geen gebruikersrecord gevonden voor deze e-mail. Registreer u op onze website of vraag een GGID aan bij uw beheerder.";
+"error_has_occurred" = "An error has occurred. Please try again.";
+"yes" = "Ja";
+"no" = "Nee";
+"select_photo_source" = "Selecteer fotobron";
+"take_photo" = "Foto nemen";
+"from_gallery" = "Van galerij";
+"tap_to_select_photo" = "Tik om een foto te selecteren om te uploaden";
+"change_your_photo" = "Tik om uw foto te veranderen";
+
+// <!-- Login -->
+"sign_in_using" = "LOG IN MET";
+"ggid" = "GGID";
+"or" = "of";
+"email_and_password" = "E-mail & wachtwoord";
+"email_address" = "E-mailadres";
+"password" = "Wachtwoord";
+"forgot_password" = "Uw wachtwoord vergeten?";
+"sign_in" = "Inloggen";
+"login_empty_all" = "U moet ofwel uw Golf Genius account of uw GGID invullen";
+"login_empty_pass_ggid" = "U moet het wachtwoord van uw Golf Genius-account invullen";
+"login_empty_email_ggid" = "U moet het e-mailadres van uw Golf Genius-account invullen";
+"login_empty_ggid" = "U moet uw GGID invullen";
+"login_empty_email_and_password" = "U moet uw Golf Genius-account invullen";
+"sign_in_loading" = "Inloggen. Wacht alstublieft…";
+"forgot_password_empty_email" = "Gelieve uw e-mailadres in te vullen in het e-mail-adresveld.";
+"hint_initials" = "Voer uw initialen in, bijv. MZ";
+"continue_text" = "Doorgaan";
+"ggid_empty" = "Voer uw initialen in";
+"dashboard_logout_title" = "Uitloggen";
+"leagues_title" = "Uw evenementen";
+"search" = "Zoeken";
+
+// <!-- Dashboard -->
+"dashboard_title" = "Dashboard";
+"loading" = "Laden…";
+"section_on_the_course" = "Op de baan";
+"dashboard_enter_scores_subtitle" = "Voer scores in voor uw groep";
+"dashboard_digital_scorecards_subtitle" = "Bekijk uw scores en notities";
+"dashboard_digital_scorecards_title" = "DIGITALE SCOREKAARTEN";
+"dashboard_marker_options_title" = "MARKERINGSOPTIES";
+"dashboard_marker_options_subtitle" = "Wijzigen wie u markeert";
+"dashboard_leaderboard_subtitle" = "Bekijk toernooien in uitvoering";
+"dashboard_upload_photo_subtitle" = "Uit galerij of neem foto";
+
+// <!-- DigitalScorecardsDescriptionActivity -->
+"you_are_the_marker_for" = "U bent de marker voor";
+"your_marker_is" = "Uw marker is";
+"hi" = "Hoi,";
+"welcome_to" = "Welkom bij";
+"date" = "Datum";
+"course_handicap" = "Baanhandicap";
+"playing_handicap" = "Speelhandicap";
+"confirm_and_continue" = "Bevestigen en doorgaan";
+
+// <!-- Digital Scorecards PlayerChoiceActivity -->
+"choose_the_players_you_want_to_mark" = "Kies de speler(s) die u wilt markeren";
+"maximum_number_of_markers" = "U heeft het maximum aantal markers bereikt.";
+
+// <!-- DigitalScorecardsEnterScoresActivity -->
+"players" = "Spelers";
+"markers_notes" = "Marker\&apos;s Notities";
+
+// <!-- EnterScoresScoringStationsActivityV2 -->
+"please_verify_the_scores" = "Verifieer de scores.";
+"once_saved" = "Zodra de scores zijn opgeslagen, wordt u doorgeschakeld naar de volgende speler.";
+"scores_correct_tap_on" = "Als de scores juist zijn, tikt u op";
+"once_saved_no_changes" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende speler en kunt u geen wijzigingen meer aanbrengen.";
+"scores_incorrect_tap_on" = "Als de scores onjuist zijn, tikt u op";
+"cancel" = "Annuleren";
+"to_adjust" = "om ze aan te passen.";
+"enter_foursome_number_or_last_name" = "Voer groepsnummer of achternaam in";
+
+// <!-- ScoringStationsDescriptionActivity -->
+"holes" = "Holes";
+
+// <!-- EnterScoresMatchPlayExtraHolesActivity -->
+"add_extra_hole" = "+ Extra hole toevoegen";
+"as" = "ALS";
+"won_by_default" = "Standaard gewonnen";
+"won" = "GEWONNEN";
+"match_play_once_the_scores_are_saved" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende hole. ";
+"match_play_once_the_scores_are_saved_no_more_changes" = "Zodra de scores zijn opgeslagen, gaat u over naar de volgende hole en kunt u geen wijzigingen meer aanbrengen. ";
+
+// <!-- ScoreReviewActivity -->
+"scorecards_incomplete_message" = "De scorekaarten zijn momenteel onvolledig, maar u kunt de scores van de markers en de spelers bekijken. Zodra de scores zijn beoordeeld, tikt u op "certificeer" om de scorekaart te ondertekenen.";
+"all_scores_are_entered" = "Alle scores zijn ingevoerd. Bekijk marker- en spelerscores en klik op score om te veranderen. Tik op "certificeer" om de scorekaart te ondertekenen.";
+"review_your_scores" = "Herzie uw scores. Vergelijk met de notities van uw marker en bevestig. Als u afwijkingen opmerkt, waarschuw dan uw marker.";
+"stroke_index_new_line" = "Slagindex";
+"stroke_index" = "Slagindex";
+"markers" = "Markers";
+"player_cannot_certify" = "Speler kan niet certificeren?";
+"click_here" = "Klik hier";
+"use_this_tool_to_cerfity" = "Gebruik dit instrument om de scores te certificeren in naam van";
+"certify_tip" = ". Zorg ervoor dat de speler de scores kan zien die hij op het punt staat te certificeren. Zodra de speler de scores heeft bekeken, kan hij je zijn speler GGID geven. Voer hier deze GGID in en tik op "Certificeren".";
+"scores_saved" = "Scores opgeslagen.";
+"keyboard_save" = "Opslaan |";
+"waiting_for_marker" = "Wachtend op marker…";
+"swipe_left_to_certify" = "Om uw scores te bevestigen, veeg naar links";
+"certify_another_player" = "Wilt u de scores van een andere speler certificeren? Klik hier";
+
+// <!-- PopUp -->
+"player_not_available_anymore" = "Sorry, deze speler is niet meer beschikbaar";
+"legend" = "Legenda:";
+"last_refresh" = "Laatste verversing op";
+"eagle_or_better" = "Eagle of beter";
+"birdie" = "Birdie";
+"bogey" = "Bogey";
+"double_bogey_or_worse" = "Double bogey of slechter";
+"conflict" = "Conflict";
+"cannot_add_scores" = "Kan geen scores toevoegen";
+"certify" = "Certificeren";
+"player_ggid" = "Speler-GGID";
+
+// <!-- EnterScoresActivityV2-->
+"loading_leaderboard" = "Leaderboard wordt geladen…";
+"file_chooser" = "Bestandskiezer";
+"file_browser" = "Bestandsbrowser";
+"flip_your_device" = "Draai uw toestel voor een beter zicht";
+
+// <!-- ScorecardActivity -->
+"loading_scorecard" = "Scorekaart laden…";
+"dashboard_enter_scores_title" = "Scores Invoeren";
+
+// <!-- WebViewActivity -->
+"edit_registration" = "Wijzig inschrijving";
+"add_to_waitlist" = "Toevoegen aan wachtlijst";
+"register_now" = "Registreer nu";
+"get_menu_sections" = "Menusecties krijgen";
+"tee_sheet" = "Tee-lijst";
+"image_chooser" = "Beeldkiezer";
+"other" = "Anders";
+"dashboard_scorecards_subtitle" = "Bekijk scorekaarten";
+"dashboard_tee_sheets_title" = "TEE SHEETS";
+"dashboard_tee_sheets_subtitle" = "Bekijk de koppelingen voor uw rondes";
+"dashboard_member_portal_subtitle" = "Bekijk het ledengedeelte";
+"dashboard_round_settings_subtitle" = "Ronde-voor-ronde instellingen & tv-weergave";
+"dashboard_logout_subtitle" = "Tot ziens!";
+"legal" = "Juridisch";
+"dashboard_terms_subtitle" = "Bekijk de Servicevoorwaarden";
+"dashboard_privacy_subtitle" = "Bekijk het privacybeleid";
+"select_devices" = "Apparaat of apparaten kiezen";
+"rounds_title" = "Ronden";
+"rounds_empty" = "Geen ronden gevonden. \nBreng beheerder op de hoogte.";
+"dashboard_terms_title" = "Servicevoorwaarden";
+"dashboard_privacy_title" = "Privacybeleid";
+"england_privacy_policy" = "England Golf Privacybeleid";
+"rules_of_golf" = "Golfregels";
+"sign_out" = "Uitschrijven";
+"dashboard_member_portal_title" = "Ledenportaal";
+"member_portal_empty" = "Het portaal is leeg";
+"albums_title" = "Albums";
+"albums_empty" = "Geen albums gevonden";
+
+// <!-- AlbumListActivity -->
+"album_list" = "Albumlijst";
+"dashboard_upload_photo_title" = "Foto Uploaden";
+"upload_photo_progress" = "Foto uploaden…";
+"upload_photo_failure" = "Kan uw foto niet uploaden";
+"upload_photo_success" = "Foto geüpload";
+"photo" = "Foto";
+"gallery" = "Galerij";
+"upload" = "UPLOAD";
+"loading_gallery" = "Galerij laden…";
+"no_photos_in_album" = "Er zijn geen foto\'s geupload in dit album";
+"dashboard_round_settings_title" = "Rondeinstellingen & Fire TV";
+"round_settings_real_time_mode_title" = "Mobiele Score Invoer";
+"round_launch_shows_title" = "Amazon Fire TV";
+"round_launch_shows_subtitle" = "Schakel tv-scherm naar Amazon Fire TV";
+"round_settings_real_time_mode_subtitle" = "Invoer mobiele score inschakelen / uitschakelen";
+"round_settings_tournaments_in_progress_title" = "Lopende toernooien";
+"round_settings_tournaments_in_progress_subtitle" = "Inschakelen / uitschakelen toernooien in uitvoering";
+"round_settings_teesheet_released_title" = "Koppelingen tonen in het Ledenportaal";
+"round_settings_teesheet_released_subtitle" = "Koppelingen tonen / verbergen in het Ledenportaal";
+"edit_round_settings_title_real_time_mode" = "Score-invoer";
+"edit_round_settings_title_teesheet_released" = "Toon / verberg tee-sheets";
+"refreshing" = "Vernieuwen…";
+"error_attempting_to_play" = "Fout bij poging tot afspelen";
+"edit_score_title" = "Scorend";
+"view_results" = "Bekijk resultaten";
+"select_hole" = "Selecteer hole";
+"hole" = "Hole";
+"help" = "Help";
+"undo" = "Ongedaan maken";
+"save" = "Opslaan";
+"quick_tip" = "Snelle Tip";
+"edit_score_help" = "Standaard worden de scores voor een hole niet genoteerd, en dit wordt aangegeven met een \"x\".  \n\nWanneer u op min of plus klikt, zal de score naar par gaan. U kunt dan op plus of min klikken om de score van een speler vast te leggen. \n\nAls een speler een hole niet afmaakt, druk dan op min totdat \"x\" verschijnt. \n\nSpelers met een rode \"x\" kunnen geen scores invoeren.";
+"dashboard_leaderboard_title" = "Leaderboard";
+"refresh" = "Vernieuwen";
+"pos" = "Pos";
+"name" = "Naam";
+"thru" = "Via";
+"to_par" = "Naar Par";
+"gross" = "Bruto";
+"net" = "Netto";
+"position" = "Positie";
+"edit" = "Bewerken";
+"scorecard_foursome" = "%1$s - Foursome %2$d";
+"par" = "Par";
+"handicap" = "Handicap";
+"no_pairings" = "Er zijn geen koppelingen gevonden voor deze ronde.\nInformeer de beheerder.";
+"no_rounds_alert" = "Geen ronden beschikbaar.";
+"clear_scores" = "Scores wissen";
+"are_you_sure" = "Weet je het zeker?";
+"edit_score_dialog_clear_msg" = "Weet u zeker dat u deze scores voor deze hole wilt wissen?";
+"no_foursomes" = "Er zijn geen foursome’s om scores voor in te voeren in deze ronde";
+"league_ggid_logged_in" = "U bent ingelogd met een GGID van een competitie of evenement. U kunt geen scores invoeren.";
+
+// <!-- LeagueListActivity -->
+"choose_an_event" = "Kies een gebeurtenis om";
+"get_started" = "AAN DE SLAG!";
+"enter_your_events_name" = "Voer de naam van uw evenement in";
+"tap_your_name_to_get_started" = "TIK OP UW NAAM OM TE BEGINNEN!";
+
+// <!-- RoundListActivity -->
+"select_round" = "Selecteer ronde";
+"scoring_stations_title" = "Scoorstations";
+"score_verification_title" = "Scoreverificatie";
+"league_name" = "Competitienaam";
+"round_date" = "Rondedatum";
+"course_name" = "Baannaam";
+"scoring_station" = "Scoorstation";
+"value" = "Waarde";
+"scoring_stations_not_enabled_message" = "Mobiel scorekaart is niet ingeschakeld. Breng uw beheerder op de hoogte.";
+"previous" = "< Vorige";
+"scoring_stations_next" = "Volgende > ";
+"player_name" = "Naam speler";
+"verify_scores" = "Scores verifiëren";
+"scoring_stations_log_out_arrow_unicode" = ""\uf0a8"";
+"scoring_stations_back_arrow_unicode" = ""\uf060"";
+"hamburger_icon" = ""\uf0c9"";
+"calendar_unicode" = ""\uf073"";
+"choose_who_you_mark" = "U kunt op het volgende scherm de spelers kiezen die u wilt markeren.";
+"digital_scorecard_tooltip_message" = "De scores zijn ingediend\n en wachten op de certificering\n door de speler. U kunt wijzigingen aanbrengen\n en opnieuw certificeren voordat\n de speler zelf de scores\n certificeert. Indien de\n speler de scores niet zelf kan\n certificeren, toon hem dan de\n digitale scorekaart en certificeer\n in zijn naam met gebruikmaking\n van zijn persoonlijke speler GGID.";
+"certify_as_player" = "Certificeren als speler";
+"certify_as_marker" = "Certificeren als marker";
+"did_not_keep_scores" = "U heeft voor geen enkele speler scores bijgehouden";
+"submitted_scores" = "Ingediende Scores";
+"marker" = "Marker";
+"my_scores" = "Mijn\nScores";
+"extra_holes" = "Extra Holes";
+
+// <!-- FoursomeListScoringVerificationActivity -->
+"loading_pairing_groups" = "Koppelingsgroepen laden…";
+"results" = "Resultaten";
+"enter_pairing_group_number_of_last_name" = "Voer koppelingsgroepnummer of achternaam in";
+"pull_down_to_refresh" = "Veeg naar beneden om te vernieuwen…";
+"last_updated" = "Laatst bijgewerkt: ";
+"not_started" = "Niet gestart";
+"under_review" = "Wacht op toestemming";
+"incomplete" = "Incompleet";
+"current_date" = "Huidige datum";
+"name_here" = "Naam hier!";
+"next" = "volgende";
+"select_scorecard" = "Selecteer Scorekaart";
+
+// <!-- FoursomeListScoringStationsActivity-->
+"enter_group_number_or_last_name" = "Voer groepsnummer of achternaam in";
+
+// <!-- FoursomesActivity -->
+"loading_foursomes" = "Foursome\'s laden…";
+"no_holes_completed" = "Geen holes voltooid.";
+"all_holes_completed" = "Alle holes voltooid.";
+"partial" = "Gedeeltelijk";
+"hole_completed" = "Hole voltooid";
+"foursomes" = "Foursome\'s";
+
+// <!-- VerificationScreen -->
+"scores_verified_transition" = "Zodra de scores zijn geverifieerd, wordt u doorgeschakeld naar de volgende speler.";
+
+// <!-- CourseDetailsActivity -->
+"tee" = "Tee";
+"no_type" = "Geen type";
+"general_play_in_progress" = "Algemene speelronde aan de gang";
+"checking_you_in" = "Laden…";
+"no_handicap_index" = "U heeft geen Handicap Index ingesteld";
+"your_playing_handicap_is" = "Uw speelhandicap is";
+
+// <!-- EnterVerificationScoresActivity -->
+"scoring_regime_array_image_description" = "X";
+"iv_checked_player" = "Checked";
+"scores_in_yellow" = "Scores in geel komen niet overeen met de huidige score";
+"clear" = "Wis";
+"clear_all" = "Alles Wissen";
+"review" = "Beoordeling";
+"leave_verification_alert" = "U staat op het punt deze scorecontrolepagina te verlaten. Alle ingevoerde scores zullen verloren gaan. Weet u zeker dat u wilt doorgaan?";
+"verification_total_score" = "Verificatie Totaalscore";
+"total_score_verification" = "Verificatie Totaalscore";
+"yardage" = "Yardage";
+"stroke" = "Slag";
+"score" = "Score";
+"note" = "Opmerking";
+"notes" = "Opmerkingen";
+"verify" = "Verifiëren";
+"in" = "In";
+"out" = "Uit";
+"yds" = "yds";
+"meters" = "Meters";
+"meters_abbreviation" = "\u0020m";
+"clear_verification_scores_alert" = "Weet u zeker dat u deze verificatie-scores wilt wissen?";
+"leave_score_verification_alert" = "U staat op het punt de scorecontrolepagina te verlaten. Alle ingevoerde scores zullen verloren gaan. Weet u zeker dat u wilt doorgaan?";
+"previous_cumulative_score" = "Vorige Cumulatieve Score";
+"current_round_score" = "Ronde Score";
+"total_cumulative_score" = "Totale Cumulatieve Score";
+"save_scores" = "Scores opslaan";
+"clear_unsaved_scores_alert" = "U staat op het punt om de niet opgeslagen scores te wissen. Weet u zeker dat u wilt doorgaan?";
+"clear_scores_alert" = "Weet u zeker dat u deze scores wilt wissen? Alle niet-opgeslagen wijzigingen gaan verloren";
+"unsaved_scores_alert" = "U staat op het punt om de scores voor deze hole te wissen zonder op te slaan. Weet u zeker dat u wilt doorgaan?";
+"local_verification_scores_alert" = "Opmerking: de verificatiescores worden lokaal op deze telefoon opgeslagen en u kunt het verificatieproces later voortzetten. Deze scores worden niet weergegeven op het leaderboard. Bevestig alstublieft.";
+"certify_alert" = "Weet u zeker dat u wilt certificeren?";
+"end_of_match_alert" = "De wedstrijd is compleet. Wilt u doorgaan met het invoeren van scores?";
+"no_i_am_done" = "Nee, ik ben klaar!";
+"undo_changes" = "Wijzigingen ongedaan maken";
+"enter_scores_modify_scores" = "Doorgaan met het bewerken van scores";
+"enter_scores_view_scorecard" = "Scorekaart samenvatting";
+"enter_scores_unsaved_scores_alert" = "U staat op het punt om de niet opgeslagen wijzigingen ongedaan te maken. Weet u zeker dat u wilt doorgaan?";
+"enter_scores_leaving_alert" = "U staat op het punt deze score-invoerpagina te verlaten zonder de scores op te slaan. Weet u zeker dat u wilt doorgaan?";
+"no_mobile_apps_access" = "U hebt op dit moment geen toegang tot de mobiele app. Neem contact op met uw beheerder.";
+"firetv_searching" = "Zoeken naar Fire TV Sticks in uw wifi-netwerk.";
+"firetv_searching_alternative" = "Zorg ervoor dat u bent verbonden met hetzelfde wifi-netwerk als uw Fire TV Stick en dat uw Fire TV Stick is aangesloten op het stopcontact en de app Golf Genius TV Display uitvoert.";
+"weather_delay_default" = "[nl]Weather delay of 90 minutes expected.\nPlease return to the clubhouse.";
+"posting_no_connectivity" = "Your device is currently not connected to the Internet. Your request has been queued for transmission. You can continue with the next group.";
+"no_tee_time_alert" = "Please go to the Edit Pairings page and set the tee time for this round";
+"no_starting_hole_alert" = "Please go to the Edit Pairings page and set the starting holes for this round";
+"enter_scores_finish_alert" = "U bent klaar met het invoeren van scores voor deze ronde. Wilt u de scores wijzigen of de scorekaart blijven bekijken?";
+
+// <!-- EnterScoresSummary -->
+"dashboard_scorecards_title" = "Scorekaarten";
+"view_leaderboard" = "Bekijk Leaderboard";
+"back" = "Terug";
+"confirm_final_scores" = "Bevestig eindscores";
+"confirm_final_scores_alert" = "Weet je zeker dat je de scores als definitief wilt bevestigen?";
+
+// <!-- Golf Genius -->
+
+// <!-- SelectClubActivity -->
+"select_club" = "Selecteer uw huidige club";
+"confirm" = "Bevestig";
+"ivClubLogo" = "Clublogo";
+"tvClubName" = "Aberdeen Golf Club";
+"application_upgrade" = "Toepassing moet worden geüpgraded";
+"welcome" = "Welkom";
+
+// <!-- CdhNumberActivity -->
+"whs_membership_number_hint" = "Voer uw WHS-lidmaatschapsnummer in";
+"whs_membership_number" = "WHS-lidmaatschapsnummer";
+"done" = "Gereed";
+"skip_for_now" = "Sla voor nu over";
+
+// <!-- HomeActivity -->
+"ivUpButton" = "[nl]Up Button";
+"selected_club" = "Geselecteerde club";
+"user_name" = "Inlognaam";
+"handicap_index" = "Handicap Index";
+"general_play" = "Algemeen Spel";
+"upcoming_events" = "Komende Evenementen";
+"powered_by" = "mogelijk gemaakt door";
+"ivDescription" = "[nl]Golf Genius Logo";
+"home" = "Startpagina";
+"more" = "Meer";
+"no_email" = "Geen e-mail";
+"no_ggid_type" = "Geen ggid-type";
+"no_first_name" = "Geen voornaam";
+"no_last_name" = "Geen achternaam";
+"no_photo" = "Geen foto";
+"no_full_name" = "Geen volledige naam";
+"no_club_name" = "Geen clubnaam";
+"no_logo_url" = "Geen logo-URL";
+"no_club_registration_league_id" = "Geen clubregistratie competitie-id";
+"delete_supplemental_score_request_not_successful" = "Delete supplemental score request not successful";
+"delete_supplemental_score_request_is_null" = "Delete Supplemental score response is null";
+"delete_supplemental_score_status_error" = "Delete Supplemental score status error";
+"check_in" = "Check In";
+"not_on_tee_sheet" = "U staat nog niet op de tee-sheet voor deze ronde";
+"mobile_score_entry_disabled" = "Mobiele score-invoer uitgeschakeld";
+"check_in_request_not_successful" = "Check-In request not successful";
+"delete_round_confirmation_alert" = "Weet u zeker dat u dit tabblad wilt verwijderen?";
+"missing_whs_membership_number" = "Ontbrekend WHS Lidmaatschapsnummer";
+"missing_whs_uid" = "UID van WHS-lid ontbreekt.";
+"todays_events_request_not_successful" = "Todays Events request not successful";
+"todays_events_data_is_null" = "Todays Events data is null";
+"no_leagues_available" = "Geen competities beschikbaar";
+"handicap_request_not_successful" = "Handicap request not successful";
+"error_parsing_refresh_data" = "Error parsing refresh data";
+"handicap_data_is_null" = "Handicap data is null";
+"loading_courses" = "Laden van de banen…";
+"no_courses" = "De club heeft geen banen beschikbaar";
+"courses_request_not_successful" = "Courses request not successful";
+"course_data_is_null" = "Course data is null";
+"course_handicap_calculator" = "Baanhandicap Calculator";
+
+// <!-- MenuActivity -->
+"back_to_directory" = "Terug naar de directory";
+
+// <!-- BottomActionBarButtonsFragment -->
+"leave" = "Verlaat";
+"leave_confirmation_general_play_alert" = "U staat op het punt om de algemene spelscore-invoer te verlaten. De huidige score wordt opgeslagen, maar niet gepost. U kunt de scores later verder invoeren.";
+"no_events_today" = "Geen evenementen vandaag";
+"todays_event" = "Evenement van vandaag";
+"ivGolfPin" = "Golf Pin";
+"event_name" = "Naam evenement";
+"register" = "Registreren";
+"delete" = "Verwijder";
+
+// <!-- General Play -->
+"post_score_general_play" = "Post Score voor Algemeen Spel";
+"hole_by_hole" = "Hole-for-Hole";
+"hole_by_hole_description" = "Voer snel uw hole-per-hole score in";
+"total_score" = "Totaalscore";
+"total_score_description" = "Post totale score of Front-9 en Back-9 scores";
+"post_score_not_successful" = "Post score request not successful";
+"post_score_is_null" = ""Post score response is null";
+"post_score_status_error" = "Post score status error";
+"scores_posted" = "Uw scores zijn gepost";
+"incomplete_scorecard_alert" = "Je staat op het punt een onvolledige scorekaart te posten. Bevestig alstublieft.";
+"confirmation_alert" = "Je staat op het punt om je rondescore te posten. Bevestig alstublieft.";
+"check_in_time" = "Check-In tijd";
+
+// <!-- Course Details -->
+"hole_by_hole_title" = "Scores per hole toevoegen";
+"course" = "Baan";
+"holes_number" = "Aantal holes";
+"tees" = "Tees";
+"starting_hole" = "Start hole";
+"attester" = "Goedkeurder";
+"check_in_start_scoring" = "Check-In en startscore";
+"nine_hole_tees_missing" = "There are no 9 hole tees that can be used for posting a 9 hole General Play";
+"eighteen_hole_tees_missing" = "There are no 18 hole tees that can be used for posting an 18 hole General Play";
+
+// <!-- Hole By Hole -->
+"ivHeaderRotate" = "Scherm draaien";
+"post_score" = "Score posten";
+"post_score_no_connectivity" = "Uw scores zijn opgeslagen in ons systeem, maar door een fout zijn ze niet op WHS gepost";
+"update_supplemental_score_not_successful" = "Update supplemental score request not successful"";
+"update_supplemental_score_response_is_null" = "Update Supplemental score response is null";
+"update_supplemental_score_status_error" = "Update Supplemental score status error";
+
+// <!-- Total Score -->
+"add_total_score" = "Totaalscore toevoegen";
+"front_nine" = "Front 9";
+"back_nine" = "Back 9";
+"total" = "Totaal";
+"total_score_hint" = "Typenummer";
+"no_course_handicap" = "Geen baanhandica";
+"posting_score" = "Je score posten…";
+"post_total_score_request_not_successful" = "Post total score request not successful";
+"post_total_score_response_is_null" = "Post total score response is null";
+
+// <!-- Handicap Calculator -->
+"handicap_calculator" = "Handicap-Berekening";
+"eighteen_hole_handicap_index" = "18-Holes H.I.";
+"course_rating" = "Baan-rating";
+"slope_rating" = "Slope-rating";
+"handicap_allowance" = "Handicap toegestaan";
+"handicap_allowance_information" = "The percentage of a Course Handicap recommended to create equity for all players participating in a specific format of play.";
+"calculate" = "Bereken";
+"note_handicap_calculator" = "";
+"see_calculation" = "Zie berekening";
+"handicap_index_invalid_number_alert" = "U moet een geldig nummer invoeren voor de Handicap Index";
+"handicap_index_decimal_alert" = "Handicap Index moet maximaal één decimaal hebben";
+"handicap_index_range_alert" = "Handicap Index moet liggen tussen +9.9 en 54.0 ";
+"course_rating_invalid_alert" = "U moet een geldig nummer invoeren voor de Baan-rating";
+"course_rating_decimal_alert" = "Baan-rating mag maximaal één decimaal hebben";
+"course_rating_range_alert" = "De baan-rating moet tussen 20.0 en 45.0 liggen voor 9 holes en tussen 45.1 en 90.0 voor 18 holes";
+"slope_rating_range_alert" = "De slope-rating moet tussen 55 en 155 liggen";
+"par_range_alert" = "Par moet tussen 20 en 90 liggen";
+
+// <!-- Enter Scores -->
+"dashboard_exit_event" = "Evenement verlaten";
+
+// <!-- Pace of Play -->
+"group" = "Groep";
+"checkpoint" = "Controlepost";
+"recorded_time" = "Opgenomen tijd";
+"group_message" = "Bericht voor de groep";
+"your_group_is_on_time" = "Je groep is op tijd";
+"observations" = "Observaties";
+"missed_checkpoints" = "Gemiste controlepunten";
+"expected" = "Verwacht";
+"interval" = "Interval";
+"next_group" = "VOLGENDE GROEP";
+"checkpoint_summary" = "Overzicht van controlepunten";
+"clock" = "Klok";
+"deadline" = "Deadline";
+"hours" = "uur";
+"minutes" = "minuten";
+"seconds" = "seconden";
+
+// <!--  DCP station  -->
+"drive" = "Drive";
+"chip" = "Chip";
+"putt" = "Putt";
+"attempts" = "Pogingen";
+"points" = "Punten";
+"skill" = "Vaardigheid";
+"no_attempt" = "Geen poging";
+"twenty_five_yards_or_less" = "1 25 yards of minder";
+"range_25_50" = "2 25 – 50 yards";
+"range_50_75" = "3 50 – 75 yards";
+"range_75_100" = "4 75 – 100 yards";
+"range_100_110" = "5 100 – 110 yards";
+"range_110_120" = "6 110 – 120 yards";
+"range_120_130" = "7 120 – 130 yards";
+"range_130_140" = "8 130 – 140 yards";
+"range_140_150" = "9 140 – 150 yards";
+"range_150_160" = "10 150 – 160 yards";
+"range_160_170" = "11 160 – 170 yards";
+"range_170_180" = "12 170 – 180 yards";
+"range_180_190" = "13 180 – 190 yards";
+"range_190_200" = "14 190 – 200 yards";
+"range_200_210" = "15 200 – 210 yards";
+"range_210_220" = "16 210 – 220 yards";
+"range_220_230" = "17 220 – 230 yards";
+"range_230_240" = "18 230 – 240 yards";
+"range_240_250" = "19 240 – 250 yards";
+"range_250_260" = "20 250 – 260 yards";
+"range_260_270" = "21 260 – 270 yards";
+"range_270_280" = "22 270 – 280 yards";
+"range_280_290" = "23 280 – 290 yards";
+"range_290_300" = "24 290 – 300 yards";
+"three_hundred_yards_or_more" = "25 300+ yards";
+"more_than_ten" = "1 Meer dan 10'";
+"range_8_10" = "2 8' – 10'";
+"range_6_8" = "5 6' – 8'";
+"range_4_6" = "10 4' – 6'";
+"range_2_4" = "15 2' – 4'";
+"two_or_nearer" = "20 2' of dichterbij";
+"dcp_hole_in_one" = "25 Hole in One";
+"more_than_five" = "1 Meer dan 5'";
+"range_4_5" = "2 4' – 5'";
+"range_3_4" = "5 3' – 4'";
+"range_2_3" = "10 2' – 3'";
+"range_1_2" = "15 1' – 2'";
+"one_or_nearer" = "20 1' of dichterbij";
